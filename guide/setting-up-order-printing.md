@@ -32,7 +32,7 @@ Ensure you have met all the requirements before starting the setup.
 
 ![](https://downloads.intercomcdn.com/i/o/61644159/9ade23646ed7511328959247/image.png)
 
-1. Download and install PushPrinter from this link [http://rebrand.ly/fe43e](http://rebrand.ly/fe43e)
+1. Download and install PushPrinter from this link [https://rebrand.ly/95743](https://rebrand.ly/95743)
 2. Download and install Ghostscript, a program used to print files on Windows. Take note of the folder you install it in. Download link - [http://rebrand.ly/dad27](http://rebrand.ly/dad27)
 3. Open PushPrinter, enter your API key from the print configuration you created in the previous step.
 4. Click the Ghostscript path field and the file select box will pop up. Navigate to the folder you installed Ghostscript in. There you will see a bin folder, inside there you will see a file called "gswin32c.exe" or "gswin64c.exe", select it
