@@ -1,5 +1,10 @@
 # Release Notes
 
+## 28th July 2018
+
+* New automated time till ready settings accessible through the cog icon in the orders page. Easily set the ready in or delivery time for orders due ASAP
+* Orders now confirmed instantly if "Time Till Confirmed" setting in automated statuses is set to a value of 0
+
 ## 26th July 2018
 
 * PushPrinter version 2.2.0 now supports multiple API keys from one PC. That means you can print kitchen and customer receipts from one printer
