@@ -1,5 +1,9 @@
 # Release Notes
 
+## 29th July 2018
+
+* Google auto-translate and language selection added to admin dashboard
+
 ## 28th July 2018
 
 * New automated time till ready settings accessible through the cog icon in the orders page. Easily set the ready in or delivery time for orders due ASAP
