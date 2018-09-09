@@ -56,17 +56,25 @@ You will need a way to bill your clients as their subscription is not managed by
 
 ## **How Much Does It Cost**
 
-There is no setup fee. The prices are exactly the same as outlined on our pricing page. Take the enterprise plan, at $200 monthly you can process 10,000 orders free of charge and just pay $0.05 per extra order processed. The only additional cost is an extra $5 flat monthly fee for every account created under your reseller account.
+There is no setup fee but there is an initial deposit required before setting up your reseller account. Please see the next section for details on the deposit. 
 
-For example, here is a rough price breakdown if you had 50 accounts each with 2 store locations with an average of 300 orders a month per location.
+Reseller pricing consists of two things. The number of accounts you have and the number of orders being processed each month. 
 
-* 50 Accounts = $250 monthly
-* Enterprise plan = $200 monthly
-* 300 Orders x 100 locations = 30,000 orders = 20,000 extra orders = $1000
+For the first cost, you will need to pay a $5 flat monthly fee for every restaurant account created under your reseller account.
 
-Total cost is for 100 store locations is $1550 per month which is $15.50 per account. Without the extra orders, that's only a mere $550 a month which means you can get started at a very low cost.
+Second, you will pay a monthly fee based on the amount of orders processed each month between all of your restaurant accounts. This price is the same as the prices outlined on our [pricing page](https://www.cloudwaitress.com/pricing).
 
-If you have a very high volume of orders, you can contact us and we can look at reducing the price per order down.
+For example, here is a rough price breakdown if you had 50 restaurants with an average of 300 orders a month per location.
+
+* 50 Restaurant Accounts = $250 monthly
+* 10,000 Orders \(Enterprise plan\) = $200 monthly
+* Total = $250 monthly
+
+With our enterprise plan, for any order past 10,000 orders, the cost is $0.05 per order. If you a processing a much higher volume than our enterprise plan, contact us for custom pricing options.
+
+### Deposit
+
+Before we setup your reseller account, we require a $500 USD deposit up front. This deposit will be credited to your reseller account. Your initial monthly payments will be deducted from your deposit until it is finished. After this, we will bill your credit card on a monthly basis.
 
 ## **Limitations**
 
@@ -77,9 +85,9 @@ The main restriction with the reseller account is that cannot have resellers fur
 On average, it takes 2 days to complete the reseller account setup process provided you have all the requirements detailed above ready. Here are the steps involved:
 
 1. Contact us and we will send you the online reseller sign up form
-2. Complete the form and we configure your account for you
-3. We will email you requesting your billing information and provide you with the necessary domain configurations for you to add to your domain settings to set up the platform \(we can do this for you if needed\)
-4. Review your setup, create a demo account and make any post set up modifications
+2. Complete the form and we will email you requesting your billing information along with the initial deposit.
+3. Once the deposit is confirmed, we will configure your reseller account and provide you with the necessary details to configure your web domain and to setup the platform \(we can do this for you if needed\)
+4. After this, you can review your setup, create a demo account and make any post set up modifications
 
 ## **FAQ**
 
