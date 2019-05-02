@@ -1,7 +1,14 @@
 # Table of contents
 
 * [CloudWaitress Help Center](README.md)
+* [Getting Started](getting-started/README.md)
+  * [Hardware Requirements](getting-started/hardware-requirements-1.md)
+  * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
+  * [Configure Your Services](getting-started/configure-your-services.md)
+  * [Managing Orders & Bookings](getting-started/managing-orders-and-bookings.md)
+* [Promoting Your Store](promoting-your-store.md)
 * [Guide](guide/README.md)
+  * [Hardware Requirements](guide/hardware-requirements.md)
   * [Getting Started](guide/getting-started.md)
   * [Dashboard Overview](guide/dashboard-overview.md)
   * [Configuring Your Store](guide/configuring-your-store.md)
@@ -10,7 +17,6 @@
   * [Setting Up a Custom Domain Name](guide/setting-up-a-custom-domain-name.md)
   * [Promoting Your Store](guide/promoting-your-store.md)
   * [Managing Orders](guide/managing-orders.md)
-  * [Hardware Requirements](guide/hardware-requirements.md)
 * [Features](features/README.md)
   * [Orders](features/orders.md)
   * [Table Bookings](features/table-bookings.md)

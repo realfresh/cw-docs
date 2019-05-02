@@ -1,0 +1,79 @@
+---
+description: >-
+  Learn what devices and printers you can use with our system. We also have a
+  list of recommended devices
+---
+
+# Hardware Requirements
+
+## Stable Internet Connection
+
+Every aspect of the system runs online and therefore requires you to be connected to the internet to receive orders. Here are a few recommendations about how to set up your internet:
+
+* Use your own internet connection instead of a shared connection so you have greater control
+* Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
+* Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
+
+\|\| IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues
+
+## Computer or Tablet
+
+To manage your online store and orders, you will need a device that can access the internet. At a minimum, we recommend using a tablet or bigger. Phone access is possible but may be limiting.
+
+## Printer
+
+{% hint style="info" %}
+This is optional but very helpful
+{% endhint %}
+
+You can automatically or manually print new orders using any printer whose drivers are installed on a Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
+
+Compatible devices:
+
+* Windows - 7, 8, 10
+* Linux - requires NodeJS installation
+
+## Recommended Computers & Tablets
+
+We highly recommend using a Windows 10 tablet as this will provide the greatest flexibility and allow for wireless order printing.
+
+### Worldwide
+
+Windows 10 tablets are abundant and cheap these days. You can't go wrong choosing from one of the major brands. Some notable brands include:
+
+* Lenevo
+* ASUS
+* HP
+* Microsoft - Surface Pro Tablet
+* Chuwi - Decent Chinese brand, starting from around $200
+
+### Australia
+
+If you are based in Australia, consider the following budget-friendly Kogan branded devices.
+
+* Kogan Windows 10 Tablet - $299 AUD
+* Kogan Windows 10 Mini PC - $219 AUD
+
+## Recommended Printers
+
+You can use any printer with Windows or Linux drivers so you are not restricted to just the printers we recommend.
+
+### Branded Printers
+
+Organized from lowest to highest price.
+
+* Epson TM-T20 - Available with USB or Ethernet
+* Epson TM-M30 - Bluetooth
+* Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
+* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI
+
+### Unbranded Printers
+
+If you are on a budget, consider buying a thermal printer direct from China through a site like www.aliexpress.com. Searching 80mm thermal printer will show many results and you can often find printers under a $100 with built-in WIFI, Bluetooth, USB and Ethernet all in one. All those printers also have Windows compatible printer drivers as well.
+
+We have many clients using these unbranded printers without any issues.
+
+## Ideal Setup
+
+![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
+

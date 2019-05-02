@@ -6,7 +6,7 @@ description: >-
 
 # Hardware Requirements
 
-## Requirements
+Requirements
 
 ### Stable Internet Connection
 

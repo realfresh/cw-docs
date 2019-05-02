@@ -69,7 +69,7 @@ Your records should look similar to below
 
 ![](https://downloads.intercomcdn.com/i/o/62040482/a3f0ccda2e10a0180e568251/namcheap-records.PNG)
 
-### Submit A Custom Domain Request {#submit-a-custom-domain-request}
+### Submit A Custom Domain Request <a id="submit-a-custom-domain-request"></a>
 
 The final step of the process requires a bit of work on our end
 

@@ -60,7 +60,7 @@ At the time of writing this, there are several known caveats and issues with cus
 7. Visit the customer's settings page in your dashboard at [https://admin.cloudwaitress.com/customers](https://admin.cloudwaitress.com/customers)and go to the settings tab. Enter your Facebook App ID and press save.
 8. Visit your online store and test the Facebook login. Check your customer's page to see that the customer has been logged.
 
-### Google {#google}
+### Google <a id="google"></a>
 
 **Requirements**
 
