@@ -5,5 +5,5 @@ description: >-
   name and at their own prices.
 ---
 
-# Reseller Information
+# Resellers
 

@@ -21,6 +21,7 @@
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
-* [Reseller Information](reseller-information/README.md)
+* [Resellers](reseller-information/README.md)
   * [Overview](reseller-information/overview.md)
+  * [Getting Started](reseller-information/getting-started-1.md)
 
