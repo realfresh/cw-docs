@@ -1,4 +1,9 @@
-# CloudWaitress Help Center
+---
+description: >-
+  Welcome to the CloudWaitress knowledge base. Here you will find articles to
+  help you setup and understand how our platform works. If you need assistance,
+  do not hesitate to contact us.
+---
 
-This an old copy of our doucmentation for our platform - [CloudWaitress - Online Ordering System For Restaurants](https://www.cloudwaitress.com)
+# Overview
 

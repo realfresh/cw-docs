@@ -1,6 +1,11 @@
-# Managing Orders & Bookings
+---
+description: >-
+  Once the orders begin coming in, you need to be ready to fulfill them. As
+  such, it's important that understand the order management workflow for
+  everything to operate smoothly.
+---
 
-Once the orders begin coming in, you need to be ready to fulfill them. As such, it's important that understand the order management workflow for everything to operate smoothly.
+# Managing Orders & Bookings
 
 ## Receiving Orders
 

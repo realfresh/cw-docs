@@ -14,7 +14,9 @@ Every aspect of the system runs online and therefore requires you to be connecte
 * Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
 * Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
 
-\|\| IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues
+{% hint style="warning" %}
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
+{% endhint %}
 
 ## Computer or Tablet
 
@@ -23,7 +25,7 @@ To manage your online store and orders, you will need a device that can access t
 ## Printer
 
 {% hint style="info" %}
-This is optional but very helpful
+This is optional but very helpful for managing orders
 {% endhint %}
 
 You can automatically or manually print new orders using any printer whose drivers are installed on a Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
@@ -31,7 +33,7 @@ You can automatically or manually print new orders using any printer whose drive
 Compatible devices:
 
 * Windows - 7, 8, 10
-* Linux - requires NodeJS installation
+* Linux - requires NodeJS
 
 ## Recommended Computers & Tablets
 

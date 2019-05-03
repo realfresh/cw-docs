@@ -1,8 +1,15 @@
+---
+description: >-
+  Once you have set up your online store settings and menus, you are ready to
+  start taking orders. Getting online orders requires you to drive customers to
+  your website to place orders.
+---
+
 # Promoting Your Store
 
-Once you have set up your online store settings and menus, you are ready to start taking orders. Getting online orders requires you to drive customers to your website to place orders. This means promoting your new website.
-
-Some element of that is integrated as part of our system but much of it is beyond the scope of our software. This single page does not do justice to the vast number of strategies available to you. The below suggestions are here to help you get started.
+{% hint style="info" %}
+Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.
+{% endhint %}
 
 ## Let Your Customers Know
 
@@ -29,7 +36,7 @@ Do not forget to add a "Placing an order" link to your places listing. See the f
 
 SEO which stands for search engine optimization is the process of making your site discoverable and rank high on search engines such as Google.
 
-#### Setup A Custom Domain Name
+### Setup A Custom Domain Name
 
 By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
@@ -37,7 +44,7 @@ While the subdomain is just there to get you up and running quickly, it's best t
 
 Once you have purchased your own domain name, visit "Settings &gt; Website &gt; Domains &gt; Custom Domain" in your restaurant dashboard to configure it.
 
-#### Basic SEO Settings
+### Basic SEO Settings
 
 Under the "Settings &gt; Website &gt; SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
 
@@ -45,7 +52,7 @@ Say you own an Indian restaurant called the Red Turban in a suburb called Townsv
 
 Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
 
-#### Submit Your Website To Google, Bing etc
+### Submit Your Website To Google, Bing etc
 
 Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
 
