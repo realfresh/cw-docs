@@ -24,4 +24,5 @@
 * [Resellers](resellers/README.md)
   * [Overview](resellers/overview.md)
   * [Getting Started](resellers/getting-started.md)
+  * [Documentation](resellers/documentation.md)
 
