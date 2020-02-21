@@ -41,8 +41,6 @@ Here are some of the things we can customize for you:
 
 We only charge a low flat monthly cost per restaurant. Please get in touch with us to find out the exact amount. There are no other fees involved.
 
-We do require an initial deposit of $500 USD before setting up your reseller account. This deposit will be credited to your account. Any monthly bills will initially be deducted from that before we charge you any further.
-
 ## Requirements
 
 ### Domain Name
@@ -59,7 +57,7 @@ Please note, Gmail, Hotmail and other e-mail hosting providers will not work for
 
 ### Billing System \(Optional\)
 
-You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing.
+You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing.  Please note that extra fees and charges apply.
 
 ## Setup Process
 
@@ -67,7 +65,7 @@ On average, it takes 2 days to complete the reseller account set up once we have
 
 1. Contact us and we will send you the online reseller sign up form
 2. Complete the form to start the process
-3. We will request your billing information along with the initial deposit of $500 USD
+3. We will request your billing information along with the initial deposit.
 4. Once the deposit is confirmed, we will configure your reseller account 
 5. We will provide you with the necessary details to configure your web domain and to set up the platform
 6. After this, you can review your setup, create a demo account and make any post set up modifications
