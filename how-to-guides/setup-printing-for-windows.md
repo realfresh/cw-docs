@@ -14,6 +14,10 @@ Our system allows you to manually and automatically print out new orders. This g
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
+* Latest version of PushPrinter that can be downloaded [here](https://pushprinter.net)
+
+In some rare instances, when the above does not work, you may require;
+
 * Latest .NET framework by Microsoft installed \(might already be installed on Windows 10\). Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=55170) 
 
 \|\| If you are unable to install the latest .NET framework due to an outdated operating system, there are 3 options. First, proceed with the steps below and see if printing works anyways. Second, update your Windows as required for the .NET framework. Third, proceed with the steps below and make sure to configure Ghostscript as shown at the bottom of the instructions.
@@ -57,19 +61,22 @@ Take note of the paper sizes available as you will likely need to try a few to g
 
 ### Install PushPrinter
 
-1. Download PushPrinter from the following [link](https://s3.amazonaws.com/pushprinter/releases/win32/PushPrinter+Setup+3.1.0.exe)
+1. Download PushPrinter from the following [link](https://pushprinter.net)
 2. Run the installer, you will get a warning that the application is unverified, proceed with the installation
 3. After it is installed successfully, PushPrinter will automatically open
 
 ### Configure PushPrinter
 
-1. The first thing you will likely want to do is toggle the "Auto Start" switch so it connects and starts when your PC is started
-2. Press on the "Service 1" tab at the top to configure a printing service
-3. Copy and paste the API key for the printer you created 2 steps ago
-4. Set the number of copies to print and select your printer
-5. Press the start button and make sure it says connected at the bottom
+1. The first thing you will likely want to do is toggle the "Auto Start" switch so it connects and starts when your PC is started.  Activate this by selecting the "Settings Cog" and ticking the 'Automatically start PushPrinter' button \(image 1.1\).
+2. Press on the "Printer Icon" tab at the top to configure a printing service
+3. Press "Create Printer" button \(image 1.2\).
+4. Copy and paste the API key for the printer you created 2 steps ago
+5. Set the number of copies to print and select your printer
+6. Press the start button and make sure it says connected at the bottom
 
-![PushPrinter Screenshot](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_pat8ks.png)
+![Image 1.1 - &apos;Automatically start PushPrinter&apos; button](../.gitbook/assets/automatically-start-pushprinter.png)
+
+![Image 1.2 - &apos;Create Printer&apos;](../.gitbook/assets/create-printer-pushprinter.png)
 
 ### Test Print
 
