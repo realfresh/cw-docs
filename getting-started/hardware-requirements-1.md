@@ -28,16 +28,17 @@ To manage your online store and orders, you will need a device that can access t
 This is optional but very helpful for managing orders
 {% endhint %}
 
-You can automatically or manually print new orders using any printer whose drivers are installed on a Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
+You can automatically or manually print new orders using any printer whose drivers are installed on a Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
 
 Compatible devices:
 
+* Android 1.5, 1.6, 2, 3, 4
 * Windows - 7, 8, 10
 * Linux - requires NodeJS
 
 ## Recommended Computers & Tablets
 
-We highly recommend using a Windows 10 tablet as this will provide the greatest flexibility and allow for wireless order printing.
+We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
@@ -49,31 +50,19 @@ Windows 10 tablets are abundant and cheap these days. You can't go wrong choosin
 * Microsoft - Surface Pro Tablet
 * Chuwi - Decent Chinese brand, starting from around $200
 
-### Australia
-
-If you are based in Australia, consider the following budget-friendly Kogan branded devices.
-
-* Kogan Windows 10 Tablet - $299 AUD
-* Kogan Windows 10 Mini PC - $219 AUD
-
 ## Recommended Printers
 
-You can use any printer with Windows or Linux drivers so you are not restricted to just the printers we recommend.
+You can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android, so you are not restricted to just the printers we recommend.
 
 ### Branded Printers
 
 Organized from lowest to highest price.
 
+* [PushPrinter PX-90](https://pushprinter.net/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
 * Epson TM-T20 - Available with USB or Ethernet
 * Epson TM-M30 - Bluetooth
 * Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
 * Star Micronics TSP143 - Available as Bluetooth or USB or WIFI
-
-### Unbranded Printers
-
-If you are on a budget, consider buying a thermal printer direct from China through a site like www.aliexpress.com. Searching 80mm thermal printer will show many results and you can often find printers under a $100 with built-in WIFI, Bluetooth, USB and Ethernet all in one. All those printers also have Windows compatible printer drivers as well.
-
-We have many clients using these unbranded printers without any issues.
 
 ## Ideal Setup
 
