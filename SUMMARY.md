@@ -11,6 +11,7 @@
   * [Promoting Your Store](getting-started/promoting-your-store.md)
 * [How To Guides](how-to-guides/README.md)
   * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
+  * [Setup Printing For Android](how-to-guides/setup-printing-for-android.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
