@@ -14,7 +14,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 * An Android device with Android 1.4 or above
 * A ESC/POS compatible printer
-* Latest version of PushPrinter that can be downloaded [here](https://pushprinter.net)
+* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
 
 ## Setup Process
 
@@ -32,7 +32,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ### Install PushPrinter
 
-1. Download PushPrinter from the following [link](https://pushprinter.net)
+1. Download PushPrinter from the following [link](https://www.pushprinter.com)
 2. After it is installed successfully, PushPrinter will automatically open
 
 ### Configure PushPrinter
