@@ -14,13 +14,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* Latest version of PushPrinter that can be downloaded [here](https://pushprinter.net)
-
-In some rare instances, when the above does not work, you may require;
-
-* Latest .NET framework by Microsoft installed \(might already be installed on Windows 10\). Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=55170) 
-
-\|\| If you are unable to install the latest .NET framework due to an outdated operating system, there are 3 options. First, proceed with the steps below and see if printing works anyways. Second, update your Windows as required for the .NET framework. Third, proceed with the steps below and make sure to configure Ghostscript as shown at the bottom of the instructions.
+* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
 
 ## Setup Process
 
@@ -61,7 +55,7 @@ Take note of the paper sizes available as you will likely need to try a few to g
 
 ### Install PushPrinter
 
-1. Download PushPrinter from the following [link](https://pushprinter.net)
+1. Download PushPrinter from the following [link](https://www.pushprinter.com)
 2. Run the installer, you will get a warning that the application is unverified, proceed with the installation
 3. After it is installed successfully, PushPrinter will automatically open
 
@@ -132,4 +126,12 @@ You need to find the correct driver for your printer provided its available for 
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Windows detects your printer. Try restarting your printer or PC. Try printing to your printer from other programs on your PC such as your browser.
+
+#### .NET Issue
+
+In some rare instances, when the above does not work, you may require;
+
+* Latest .NET framework by Microsoft installed \(might already be installed on Windows 10\). Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=55170) 
+
+\|\| If you are unable to install the latest .NET framework due to an outdated operating system, there are 3 options. First, proceed with the steps below and see if printing works anyways. Second, update your Windows as required for the .NET framework. Third, proceed with the steps below and make sure to configure Ghostscript as shown at the bottom of the instructions.
 
