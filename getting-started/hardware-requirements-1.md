@@ -58,7 +58,7 @@ You can use any printer with Windows or Linux drivers or any printer that works 
 
 Organized from lowest to highest price.
 
-* [PushPrinter PX-90](https://pushprinter.net/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
+* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
 * Epson TM-T20 - Available with USB or Ethernet
 * Epson TM-M30 - Bluetooth
 * Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
