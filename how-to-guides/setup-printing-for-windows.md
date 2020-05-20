@@ -111,10 +111,6 @@ Start by reducing either your margin or paper width values under your printer co
 
 Under your Windows printer settings. Set your "Feed Line After Printing" option to a high value to allow the printer to feed through a few extra lines.
 
-#### Excess whitespace at the end of a receipt
-
-Thermal printers generally trim out any excess whitespace when printing. If this is happening to you, please contact us.
-
 #### Invalid API Key
 
 The API key you entered does not below to any of your print configurations. Double check your API key
@@ -130,12 +126,4 @@ You need to find the correct driver for your printer provided its available for 
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Windows detects your printer. Try restarting your printer or PC. Try printing to your printer from other programs on your PC such as your browser.
-
-#### .NET Issue
-
-In some rare instances, when the above does not work, you may require;
-
-* Latest .NET framework by Microsoft installed \(might already be installed on Windows 10\). Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=55170) 
-
-\|\| If you are unable to install the latest .NET framework due to an outdated operating system, there are 3 options. First, proceed with the steps below and see if printing works anyways. Second, update your Windows as required for the .NET framework. Third, proceed with the steps below and make sure to configure Ghostscript as shown at the bottom of the instructions.
 

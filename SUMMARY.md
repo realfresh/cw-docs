@@ -15,6 +15,7 @@
   * [Printing - Windows Network Printing](how-to-guides/untitled.md)
   * [Printing - Windows Shared Printing](how-to-guides/printing-windows-shared-printing.md)
   * [Printing - API Key](how-to-guides/printing-api-key.md)
+  * [Untitled](how-to-guides/untitled-1.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
