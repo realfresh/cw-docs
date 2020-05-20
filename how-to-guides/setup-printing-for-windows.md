@@ -16,7 +16,7 @@ For step by step instructions by printing method.  Please use the following inst
 
 {% page-ref page="printing-windows-shared-printing.md" %}
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="printing-windows-network-printing.md" %}
 
 ## Requirements
 
