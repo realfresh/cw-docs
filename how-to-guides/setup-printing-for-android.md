@@ -37,7 +37,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ### Configure PushPrinter
 
-1. Press the "Settings Cog" and select CloudWaitress.
+1. Press the "Settings Cog" and select Default.
 2. Press on the "Printer Icon" tab at the top to configure a printing service
 3. Copy and paste the API key for the printer you created 2 steps ago
 4. Set the number of copies to print and select your printer
