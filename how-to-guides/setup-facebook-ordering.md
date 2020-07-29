@@ -28,9 +28,9 @@ Choose "Page Tab". You will now need to fill in your store URL under "Secure Pag
 
 To add the page tab to your Facebook page, you will need your Facebook App ID which you will see highlighted in orange in the previous photo at the top of the page
 
-Next, you need to visit the following URL into your browser making sure to replace  with your Facebook app ID and  with the store URL that you entered previously
+Next, you need to visit the following URL into your browser making sure to replace with your Facebook app ID and with the store URL that you entered previously
 
-[https://www.facebook.com/dialog/pagetab?app\_id={{YOUR\_APP\_ID}}&redirect\_uri={{YOUR\_STORE\_URL}}](https://www.facebook.com/dialog/pagetab?app_id={{YOUR_APP_ID}}&redirect_uri={{YOUR_STORE_URL}})
+[https://www.facebook.com/dialog/pagetab?app\_id=&redirect\_uri=](https://www.facebook.com/dialog/pagetab?app_id={{YOUR_APP_ID}}&redirect_uri={{YOUR_STORE_URL}})
 
 If done correctly, you will see a page on Facebook saying "Add Page Tab" and you will be able to select one of your Facebook pages
 

@@ -20,7 +20,7 @@ IT staff occasionally set up an internet firewall for small business to prevent 
 
 ## Computer or Tablet
 
-To manage your online store and orders, you will need a device that can access the internet. At a minimum, we recommend using a tablet or bigger. Phone access is possible but may be limiting.
+To manage your online store and orders, you will need a device that can access the internet. At a minimum, we recommend using a tablet or bigger. Phone access is possible but maybe limiting.
 
 ## Printer
 
@@ -28,7 +28,7 @@ To manage your online store and orders, you will need a device that can access t
 This is optional but very helpful for managing orders
 {% endhint %}
 
-You can automatically or manually print new orders using any printer whose drivers are installed on a Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
+You can automatically or manually print new orders using any printer whose drivers are installed on an Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
 
 Compatible devices:
 
@@ -38,7 +38,7 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
@@ -48,7 +48,7 @@ Windows 10 tablets are abundant and cheap these days. You can't go wrong choosin
 * ASUS
 * HP
 * Microsoft - Surface Pro Tablet
-* Chuwi - Decent Chinese brand, starting from around $200
+* Chuwi - Decent Chinese brand, starting from around £200
 
 ## Recommended Printers
 

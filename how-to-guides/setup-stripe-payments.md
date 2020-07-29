@@ -36,7 +36,7 @@ Once this is done, you can use the credit card number "4242 4242 4242 4242" with
 
 ## Validating Your Stripe Account
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
+To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Please, ensure you have completed all their required validations.
 
 ## Stripe Fee's
 

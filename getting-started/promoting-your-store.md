@@ -28,7 +28,7 @@ You can consider paying for Facebook or Google ads. Both of these are avenues to
 
 ## Create A Google Places Listing
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
+A Google places listing will allow local customers to find you far easier as it focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
 
 Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
@@ -52,7 +52,7 @@ Say you own an Indian restaurant called the Red Turban in a suburb called Townsv
 
 Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
 
-### Submit Your Website To Google, Bing etc
+### Submit Your Website To Google, Bing, etc
 
 Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
 

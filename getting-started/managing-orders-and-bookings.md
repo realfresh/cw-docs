@@ -27,9 +27,9 @@ There are several key features of the order management interfaces:
 
 ### **Board View**
 
-![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1l3lo9y.png)
+![](../.gitbook/assets/system-pic.png)
 
-The board view is fantastic for actually managing orders in real-time. Orders flow from left to right along the different status columns.
+The board view is fantastic for actually managing orders in real-time. Orders flow from left to right along with the different status columns.
 
 In the board view, the **due** time is the time when the customer will be coming to collect the order. For deliveries, the **start delivery** time is when the order must leave your store to reach the customer at their selected time.
 
@@ -53,7 +53,7 @@ Here you are able to do the following functions
 
 ## How To Manage Orders
 
-To actively manage orders, use the board view and follow the process below.
+To actively manage orders, use the board view, and follow the process below.
 
 1. Confirm or cancel any new orders received in the **Un-Confirmed** column.
 2. Orders in the **Confirmed \(Due Soon\)** column are due in the next 2 orders. Simply prepare the orders from the top to bottom to meet the time they are due
@@ -69,7 +69,7 @@ To actively manage orders, use the board view and follow the process below.
 There are 6 different order statuses as indicated by the columns on the order management board.
 
 * Un-confirmed - new orders that are not accepted yet
-* Confirmed - orders that you have accepted and will fulfil
+* Confirmed - orders that you have accepted and will fulfill
 * Ready - prepared orders ready for customer or driver collection
 * On Route - orders currently with the delivery driver \(delivery only\)
 * Complete - orders that have been completed fulfilled
@@ -93,7 +93,7 @@ Every time a new order is received, several things will happen.
 
 We highly recommend that you have device notifications enabled if your device supports it. When you first load the admin dashboard, your web browser will ask you if you would like to allow notifications. Please make sure that you allow this.
 
-If you did not, you will need to manually enable them from your web browser settings. This is different for every browser. For chrome on a PC, you can do this by clicking the secure lock icon beside the website URL in the address bar. This will drop down the permissions window where you can enable notifications for the current page you are on.
+If you did not, you will need to manually enable them from your web browser settings. This is different for every browser. For Chrome on a PC, you can do this by clicking the secure lock icon beside the website URL in the address bar. This will drop down the permissions window where you can enable notifications for the current page you are on.
 
 ### E-Mail Notifications
 
@@ -113,7 +113,7 @@ Implementing an online ordering system if you have never done so before requires
 
 ## Managing Bookings
 
-Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or cancelled.
+Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or canceled.
 
 This will notify your customer respectively. You can then pencil this booking into your calendar if needed.
 

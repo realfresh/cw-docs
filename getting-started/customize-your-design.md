@@ -1,13 +1,11 @@
 ---
 description: >-
   When you first create your restaurant, the default theme is relatively blank.
-  It's up to you to customise it to represent your brand. Design settings are
+  It's up to you to customize it to represent your brand. Design settings are
   located under the settings page in the design
 ---
 
 # Customize Your Design
-
-{% embed url="https://youtu.be/g3ibBakpqMU" caption="Design video tutorial" %}
 
 ## How To Customize Your Design
 
@@ -25,5 +23,5 @@ To get a great looking site quickly, just use our base theme, add your logo and 
 
 * Logo image - 300 pixels wide by 100 pixels high wide
 * Header image - 1920 pixels wide by 500 pixels high
-* Logo icon - 350 by 350 pixel square
+* Logo icon - 350 by 350-pixel square
 

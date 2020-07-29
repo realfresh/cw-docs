@@ -26,7 +26,7 @@ If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/a
 
 ## Connecting Your PayPal Account
 
-#### Create a REST API Application
+### Create a REST API Application
 
 1. Visit [https://developer.paypal.com/developer/applications/](https://developer.paypal.com/developer/applications/)
 2. Log into your PayPal account using the login in button
@@ -37,7 +37,7 @@ If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/a
 
 ![PayPal REST apps](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_141scma.png)
 
-#### Copy Live Application Credentials
+### Copy Live Application Credentials
 
 1. After creating your application, you will be on the page where you can copy your credentials
 2. Change from the "Sandbox" to "Live" view using the buttons on the top right

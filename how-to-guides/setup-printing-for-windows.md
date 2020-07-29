@@ -1,6 +1,6 @@
 ---
 description: >-
-  Learn how to setup and configure order printing for Windows devices with our
+  Learn how to set up and configure order printing for Windows devices with our
   printing software
 ---
 
@@ -10,7 +10,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 \|\| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
 
-For step by step instructions by printing method.  Please use the following instructions.  It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
+For step by step instructions by printing method. Please use the following instructions. It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
 
 {% page-ref page="printing-api-key.md" %}
 
@@ -22,7 +22,7 @@ For step by step instructions by printing method.  Please use the following inst
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
+* The latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
 
 ## Setup Process
 
@@ -100,7 +100,7 @@ Under your Windows printer settings. Set your "Feed Line After Printing" option 
 
 #### Invalid API Key
 
-The API key you entered does not below to any of your print configurations. Double check your API key
+The API key you entered does not below to any of your print configurations. Double-check your API key
 
 #### Could Not Authenticate
 

@@ -10,44 +10,41 @@ description: How to guide to print with a network printer
 
 ![](../.gitbook/assets/untitled%20%281%29.png)
 
-2. Open Devices and Printers
+1. Open Devices and Printers
 
 ![](../.gitbook/assets/untitled-1.png)
 
-3. Right click and select 'Printer Properties'
+1. Right click and select 'Printer Properties'
 
 ![](../.gitbook/assets/untitled-2%20%285%29.png)
 
-4. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
-
-5. To test that the printer is working, please press Print Test Page
+1. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+2. To test that the printer is working, please press Print Test Page
 
 ![](../.gitbook/assets/untitled-3%20%281%29.png)
 
-6. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
-
-7. Open the PushPrinter for Windows program application
-
-8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+1. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+2. Open the PushPrinter for Windows program application
+3. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
-9. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
+1. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
 
 ![](../.gitbook/assets/automatically-start-pushprinter.png)
 
-10. Press the printer button
+1. Press the printer button
 
 ![](../.gitbook/assets/untitled-6.png)
 
-11. Using the Create Printer button, create printer
+1. Using the Create Printer button, create printer
 
 ![](../.gitbook/assets/untitled-7%20%284%29.png)
 
-12. Add settings including API key from the printer just created.
+1. Add settings including API key from the printer just created.
 
 {% hint style="info" %}
-**For a network printer:** 
+**For a network printer:**
 
 * Name the printer. 
 * Add API printer \(found in the store printer settings\), 
@@ -71,11 +68,9 @@ description: How to guide to print with a network printer
 **Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
 {% endhint %}
 
-13. Test print
-
-14. Create printer
-
-15. Go to your store and place a test order.
+1. Test print
+2. Create printer
+3. Go to your store and place a test order.
 
 \*\*\*\*
 

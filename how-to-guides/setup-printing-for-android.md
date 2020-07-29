@@ -56,11 +56,11 @@ We have successfully setup 100's of printers, there is a good chance we can save
 
 #### Sides being cut-off
 
-Start by reducing either your Paper Scale Factor to 1.7 and test print again.  Adjust until it fits.
+Start by reducing either your Paper Scale Factor to 1.7 and test print again. Adjust until it fits.
 
 #### Invalid API Key
 
-The API key you entered does not below to any of your print configurations. Double check your API key
+The API key you entered does not below to any of your print configurations. Double-check your API key
 
 #### Could Not Authenticate
 
@@ -69,6 +69,4 @@ Check your internet connection or try again shortly
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
-
-
 
