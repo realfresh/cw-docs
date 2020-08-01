@@ -1,11 +1,21 @@
 ---
 description: >-
   For August 2020, the UK government have released a discount scheme for
-  restaurants offering dine-in services that allows customers to get 50%
-  discount on food.
+  restaurants called 'Eat Out to Help Out".  This shows how to set-up for your
+  restaurant.
 ---
 
 # COVID-19 Discount for United Kingdom
+
+## Example
+
+Below shows an example of the COVID-19 discount applied to the checkout.
+
+![Example of COVID-19 Discount working](../.gitbook/assets/covid19-discount-image.png)
+
+
+
+## Set-up Process
 
 CloudWaitress supports the COVID-19 Discount for Dine-In orders with the following settings;
 
