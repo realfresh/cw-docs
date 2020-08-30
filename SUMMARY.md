@@ -18,7 +18,7 @@
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
-  * [How to add Driver Tracking](how-to-guides/how-to-add-driver-tracking.md)
+  * [How to add Driver Tracking](how-to-guides/questtag-integration.md)
   * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Link Directly to menu](how-to-guides/link-directly-to-menu.md)
