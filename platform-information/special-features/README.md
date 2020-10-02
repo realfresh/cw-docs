@@ -6,6 +6,8 @@ description: >-
 
 # Special Features
 
+{% page-ref page="public-holiday-surcharge.md" %}
+
 {% page-ref page="covid-19-discount-for-united-kingdom.md" %}
 
 
