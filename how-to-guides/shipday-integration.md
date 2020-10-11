@@ -1,7 +1,8 @@
 ---
 description: >-
-  Driver Tracking powered by QuestTag.com provides customer notifications with
-  real-time delivery driver tracking for CloudWaitress delivery orders.
+  Driver Tracking powered by Shipday.com (previously know as QuestTag.com)
+  provides customer notifications with real-time delivery driver tracking for
+  CloudWaitress delivery orders.
 ---
 
 # How to add Driver Tracking
@@ -17,14 +18,14 @@ description: >-
 * Customer text notifications \(paid\)
 * Auto-dispatching \(paid\)
 
-## Set-up QuestTag Integration
+## Set-up Shipday Integration
 
 {% embed url="https://youtu.be/ZRzKbq3M-co" %}
 
 1. Open your CloudWaitress account - [admin.cloudwaitress.com](https://admin.cloudwaitress.com/).
 2. Select 'Manage' for the Restaurant you would like to integrate.
-3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'QuestTag Logo'.
-4. Paste the QuestTag API key from your QuestTag.com account.
+3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'Shipday Logo'.
+4. Paste the Shipday API key from your Shipday.com account.
 5. Check the 'Enabled' button and press save.
 6. The integration is now live.
 
@@ -34,7 +35,7 @@ Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise
 **Find at**: 'Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses'.
 {% endhint %}
 
-![See drivers and deliveries in the QuestTag &apos;Map&apos; section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
+![See drivers and deliveries in the Shipday &apos;Map&apos; section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
 ## 
 
