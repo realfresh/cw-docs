@@ -6,6 +6,8 @@ description: >-
 
 # Setup Apple Pay with Checkout.com
 
+![Apple pay allows iOS users to pay using their phone](../.gitbook/assets/apple-pay-final.png)
+
 ## How Apple Pay Works
 
 Customers with Apple Pay-compatible devices can utilize this payment method to ease the process of credit card payment. Apple Pay eliminates the need to type the card information and shipping details manually. Customers only need to authorize the payment using biometric authentication such as Touch ID.
