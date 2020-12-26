@@ -18,6 +18,7 @@
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)
+  * [Setup Custom Checkout Fields](how-to-guides/setup-custom-checkout-fields.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
   * [How to add Driver Tracking](how-to-guides/shipday-integration.md)
   * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
