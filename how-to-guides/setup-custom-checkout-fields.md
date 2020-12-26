@@ -6,8 +6,6 @@ description: >-
 
 # Setup Custom Checkout Fields
 
-
-
 {% embed url="https://youtu.be/qe9rAjuTE3w" %}
 
 * Go to settings &gt; Services
