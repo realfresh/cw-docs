@@ -15,6 +15,7 @@
   * [Printing - Windows Network Printing](how-to-guides/printing-windows-network-printing.md)
   * [Printing - Windows Shared Printing](how-to-guides/printing-windows-shared-printing.md)
   * [Printing - API Key](how-to-guides/printing-api-key.md)
+  * [Setup Split Printing](how-to-guides/setup-split-printing.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)
