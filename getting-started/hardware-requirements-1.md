@@ -62,7 +62,16 @@ Organized from lowest to highest price.
 * Epson TM-T20 - Available with USB or Ethernet
 * Epson TM-M30 - Bluetooth
 * Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
-* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI. We do NOT recommend Star for Android.
+
+### Other Printers
+
+{% hint style="warning" %}
+We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+{% endhint %}
+
+* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI. 
+
+
 
 ## Ideal Setup
 
