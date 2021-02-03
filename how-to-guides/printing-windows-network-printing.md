@@ -28,13 +28,11 @@ description: How to guide to print with a network printer
 
 7. Open the PushPrinter for Windows program application
 
-8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+8. Go to the 'settings' cog and select the default provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
 9. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
-
-![](../.gitbook/assets/automatically-start-pushprinter.png)
 
 10. Press the printer button
 
