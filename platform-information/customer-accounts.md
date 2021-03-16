@@ -26,7 +26,7 @@ Customers create accounts using:
 
 ## Guides
 
-{% page-ref page="../how-to-guides/setup-facebook-login.md" %}
+{% page-ref page="../how-to-setup-postmates-in-cloudwaitress/setup-facebook-login.md" %}
 
 ## Caveats & Known Issues
 
