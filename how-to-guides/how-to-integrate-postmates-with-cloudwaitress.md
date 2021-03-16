@@ -2,7 +2,7 @@
 description: Postmates is a last mile delivery services operating in the USA.
 ---
 
-# How to integrate POSTMATES with CloudWaitress
+# How to integrate Postmates with CloudWaitress
 
 ## POSTMATES Integration
 
@@ -11,6 +11,8 @@ description: Postmates is a last mile delivery services operating in the USA.
 
 [This is the updated list of cities where Postmates is available](https://www.notion.so/cloudwaitresswiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
 {% endhint %}
+
+
 
 ## How to set-up CloudWaitress &gt; Postmates integration
 
