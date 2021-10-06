@@ -8,6 +8,8 @@ description: >-
 
 {% page-ref page="public-holiday-surcharge.md" %}
 
+{% page-ref page="make-service-pop-up-required.md" %}
+
 {% page-ref page="covid-19-discount-for-united-kingdom.md" %}
 
 
