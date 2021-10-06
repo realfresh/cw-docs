@@ -6,7 +6,7 @@ description: >-
 
 # Make Service Pop-Up Required
 
-![Example of the feature when activated](.gitbook/assets/image%20%281%29.png)
+![Example of the feature when activated](../../.gitbook/assets/image%20%281%29.png)
 
 To enable this feature, please activate the '_Service Pop-up required_'' button under;
 
@@ -14,5 +14,5 @@ To enable this feature, please activate the '_Service Pop-up required_'' button 
 Settings &gt; System &gt; Misc &gt; Service Pop-up required
 {% endhint %}
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
