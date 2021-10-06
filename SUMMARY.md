@@ -35,6 +35,7 @@
   * [Special Features](platform-information/special-features/README.md)
     * [Public Holiday Surcharge](platform-information/special-features/public-holiday-surcharge.md)
     * [COVID-19 Discount for United Kingdom](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
+* [Make Service Pop-Up Required](make-service-pop-up-required.md)
 * [Resellers](resellers/README.md)
   * [Overview](resellers/overview.md)
   * [Getting Started](resellers/getting-started.md)
