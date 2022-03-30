@@ -68,3 +68,4 @@ Organized from lowest to highest price.
 
 ![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
 
+Or just buy one from us, once you receive this log into the app & start selling (subject to set up)
