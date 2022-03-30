@@ -8,7 +8,7 @@ description: >-
 
 ## Quick-start Steps
 
-1. Visit https://www.munchhouses.co.uk and sign up for an account
+1. Visit https://www.portalsdirect.com and choose a package thats right for you 
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard
