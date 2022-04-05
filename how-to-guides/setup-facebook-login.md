@@ -14,9 +14,9 @@ On the top right corner, select "My Apps" and press "Add New App"
 
 Fill out the form and create the app
 
-On the app dashboard the left menu, select "Settings &gt; Basic". Enter your website domain into the "App Domains" field
+On the app dashboard the left menu, select "Settings &gt; Basic". Enter your website domain into the "App Domains" munchhouses.com
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_iokp6p.png)
+
 
 Scroll down and press the "Add Platform" button and select "Website
 
