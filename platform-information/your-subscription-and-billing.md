@@ -19,7 +19,7 @@ description: >-
 
 We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
 
-1. Visit [https://admin.munchhouses.com](https://admin.cloudwaitress.com)and login
+1. Visit [https://admin.munchhouses.co.uk](https://https://admin.munchhouses.co.uk/login)and login
 2. Click **billing** on a restaurant in your restaurant list
 3. In the popup, select "Payment Methods" and enter your card details
 
