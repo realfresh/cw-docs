@@ -6,7 +6,7 @@ description: >-
 
 # Printing - API Key
 
-1. Login to your CloudWaitress account at [admin.cloudwaitress.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
+1. Login to your MunchHouse account at https://admin.munchhouses.co.uk/login and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
 
 ![](../.gitbook/assets/1-create-printer.png)
 

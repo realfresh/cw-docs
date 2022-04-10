@@ -22,7 +22,7 @@ After creating the app, you will be taken to the app dashboard. On the left menu
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_wtsxiz.png)
 
-Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your CloudWaitress subdomain such as "[https://yourdomain.cloudwaitress.com](https://yourdomain.cloudwaitress.com)" or your custom domain name if setup
+Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your munchhouses.co.uk subdomain such as "[https://yourdomain.munchhouses.co.uk](https://yourdomain.munchhouses.co.uk)" or your custom domain name if setup
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_cb565a.png)
 

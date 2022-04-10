@@ -8,16 +8,17 @@ description: >-
 
 ## Quick-start Steps
 
-1. Visit https://www.munchhouses.co.uk and sign up for an account
-2. Once you are at the admin dashboard, press "Create New Restaurant"
-3. Fill out your restaurant details and create the restaurant
-4. Click on your new restaurant to see the restaurant dashboard
-5. On the left menu, visit the "Menus" section
-6. Create a menu, create a category and then create a standard dish under it
-7. On the left menu, click on "Orders" to view the order management interface
-8. Open up your online store in a new tab by pressing "Visit Store" on the left menu
-9. Place an order through your website
-10. See the order come through automatically on your orders page. Select the order and try changing the order status or wait time. Use the "Actions" select to delete the test order when done
+1. Visit: www.portalsdirect.com & purchase a plan 
+2. Visit https://admin.munchhouses.co.uk/login and choose a package thats right for you 
+3. Once you are at the admin dashboard, press "Create New Restaurant"
+4. Fill out your restaurant details and create the restaurant
+5. Click on your new restaurant to see the restaurant dashboard
+6. On the left menu, visit the "Menus" section
+7. Create a menu, create a category and then create a standard dish under it
+8. On the left menu, click on "Orders" to view the order management interface
+9. Open up your online store in a new tab by pressing "Visit Store" on the left menu
+10. Place an order through your website
+11. See the order come through automatically on your orders page. Select the order and try changing the order status or wait time. Use the "Actions" select to delete the test order when done
 
 ## What's Next
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to the Cloud Portal T/A Munch Houses knowledge base.  Here you will find articles to
+  Welcome to the Portals Direct T/A Munch Houses knowledge base.  Here you will find articles to
   help you set up and understand how our platform works. If you need assistance,
   do not hesitate to contact us.
 ---
