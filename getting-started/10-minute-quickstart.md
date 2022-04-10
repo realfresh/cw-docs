@@ -5,11 +5,20 @@ description: >-
 ---
 
 # 10-Minute Quickstart
+https://www.portalsdirect.com/how-to-guide
+
+{% embed url="YOUTUBE CLIP COMING caption="Quickstart video tutorial" %}
+
+## Quick-start Steps
+
+1. Visit https://www.poprtalsdirect.com and sign up foryour package, You will be then redirtected 
+https://www.portalsdirect.com/how-to-guide
 update tube 
 
 ## Quick-start Steps
 
 1. Visit https://admin.munchhouses.co.uk/login and sign up for an account
+https://www.portalsdirect.com/how-to-guide
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard
