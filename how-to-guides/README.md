@@ -1,5 +1,6 @@
 ---
 description: >-
+https/www.portalsdirect.com/how-to-guide
   Learn how to set up specific features relating to the system such as online
   payments, customer accounts, order printing, and more.
 ---
@@ -30,4 +31,11 @@ echo 'You got to trust me on this, I saved the world'
 {% endcode %}
 
 
+=======
+  This section will take you through how to set-up specific features within
+  Munch House Network.
+---
+
+# How to Guides
+https/www.portalsdirect.com/how-to-guide
 
