@@ -11,7 +11,7 @@ https://www.portalsdirect.com/how-to-guide
 
 ## Quick-start Steps
 
-1. Visit https://www.poprtalsdirect.com and sign up foryour package, You will be then redirtected 
+1. Visit https://www.portalsdirect.com and sign up foryour package, You will be then redirtected 
 https://www.portalsdirect.com/how-to-guide
 update tube 
 
