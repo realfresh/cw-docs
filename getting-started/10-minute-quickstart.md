@@ -11,9 +11,8 @@ https://www.portalsdirect.com/how-to-guide
 
 ## Quick-start Steps
 
-1. Visit https://www.portalsdirect.com and sign up foryour package, You will be then redirtected 
-https://www.portalsdirect.com/how-to-guide
-update tube 
+1. Visit https://www.portalsdirect.com and sign up foryour package, You will be then redirtected to our Portal Munch Houses Visit https://admin.munchhouses.co.uk/login
+
 
 ## Quick-start Steps
 
