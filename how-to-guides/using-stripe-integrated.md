@@ -7,13 +7,13 @@ description: >-
 # Using Stripe Integrated
 
 {% hint style="info" %}
-You can accept credit cards online using [Stripe](https://stripe.com/). It is currently supported in numerous countries with a variety of currencies.&#x20;
+You can accept credit cards online using Stripe. It is currently supported in numerous countries with a variety of currencies.&#x20;
 {% endhint %}
 
 ## How to use Stripe Integrated
 
 {% hint style="success" %}
-If you cannot see this option in your dashboard, please see [this page](setup-integrated-stripe-payments.md)
+If you cannot see this option in your dashboard, please see [this page](setup-integrated-stripe-payments.md).
 {% endhint %}
 
 * Go to Online Payments.
@@ -28,7 +28,7 @@ If you cannot see this option in your dashboard, please see [this page](setup-in
 
 ![](<../.gitbook/assets/image (10).png>)
 
-* For Payouts, just click the payout button at the upper right pane of the page.
+* For Payouts, just click the payout button at the upper right pane of the page.  You can also review your payouts in your stripe dashboard at [dashboard.stripe.com](https://dashboard.stripe.com)
 
 ![](<../.gitbook/assets/image (12).png>)
 
