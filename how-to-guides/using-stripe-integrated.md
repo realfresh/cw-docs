@@ -6,19 +6,17 @@ description: >-
 
 # Using Stripe Integrated
 
-{% hint style="info" %}
 You can accept credit cards online using Stripe. It is currently supported in numerous countries with a variety of currencies.&#x20;
-{% endhint %}
 
 ## How to use Stripe Integrated
-
-{% hint style="success" %}
-If you cannot see this option in your dashboard, please see [this page](setup-integrated-stripe-payments.md).
-{% endhint %}
 
 * Go to Online Payments.
 
 ![](<../.gitbook/assets/image (8).png>)
+
+{% hint style="success" %}
+If you cannot see this option in your dashboard, please see [this page](setup-integrated-stripe-payments.md).
+{% endhint %}
 
 * From the Online Payments; Refunds, Payments & Order Details are shown here.
 
