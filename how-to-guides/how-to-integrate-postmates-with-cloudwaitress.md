@@ -14,7 +14,7 @@ description: Postmates is a last mile delivery services operating in the USA.
 
 
 
-## How to set-up CloudWaitress &gt; Postmates integration
+## How to set-up CloudWaitress > Postmates integration
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
@@ -22,9 +22,9 @@ description: Postmates is a last mile delivery services operating in the USA.
 
 1 - Login to Postmates account at - partner.postmates.com
 
-2 - Click Developer &gt; Webhooks &gt; Create Webhook
+2 - Click Developer > Webhooks > Create Webhook
 
-3 - Paste the API URL into the Production and Sandbox 'Webhooks' section. The API URL for the webhook can be found in your restaurant dasboard under settings &gt; integrations &gt; Postmates &gt; Postmates Webhook URL
+3 - Paste the API URL into the Production and Sandbox 'Webhooks' section. The API URL for the webhook can be found in your restaurant dasboard under settings > integrations > Postmates > Postmates Webhook URL
 
 ![](../.gitbook/assets/generate-postmates-webhook.png)
 {% endtab %}
@@ -40,16 +40,16 @@ Ready= On at 0min
 {% endtab %}
 
 {% tab title="Required keys" %}
-Below are the keys in Postmates that you will need to use when adding to the Shipday integration settings within the restaurant \(Settings &gt; Integrations &gt; Postmates\);
+Below are the keys in Postmates that you will need to use when adding to the Shipday integration settings within the restaurant (Settings > Integrations > Postmates);
 
-* Sandbox Key \(Authentication Key for testing\)
-* Production Key \(Authentication Key for live\)
+* Sandbox Key (Authentication Key for testing)
+* Production Key (Authentication Key for live)
 * Customer ID
 * Signature Secret
 
 ![](../.gitbook/assets/postmates-required-keys.png)
 
-Add the values from your Postmates account as per below \(Settings &gt; Integrations &gt; Postmates\);
+Add the values from your Postmates account as per below (Settings > Integrations > Postmates);
 
 ![](../.gitbook/assets/settings-integration-postmates.png)
 {% endtab %}
@@ -83,25 +83,25 @@ IMPORTANT - The following settings must be applied for the Postmates integration
 
 **In Cloudwaitress the following settings must be applied;**
 
-1. Generate and add the webhook to Postmates \(details above\)
+1\. Generate and add the webhook to Postmates (details above)
 
-2. Add the Postmates keys into restaurant dashboard. Settings &gt; Integrations &gt; Postmates.
+2\. Add the Postmates keys into restaurant dashboard. Settings > Integrations > Postmates.
 
-3. Settings &gt; Services &gt; Deliveries &gt; Fees &gt; None
+3\. Settings > Services > Deliveries > Fees > None
 
 ![](../.gitbook/assets/postmates-essential-settings-1.png)
 
-4. Settings &gt; Services &gt; Deliveries &gt; General &gt; Default Delivery Provider = Postmates
+4\. Settings > Services > Deliveries > General > Default Delivery Provider = Postmates
 
 ![](../.gitbook/assets/postmates-essential-settings-2.png)
 
-5. Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses
+5\. Settings > Services > Deliveries > Wait Times & Auto Statuses
 
 The following settings MUST be enabled;
 
-* Time till confirm \(minutes\)
-* Time Till Ready \(minutes\)
-* Time till on route \(mins\)
+* Time till confirm (minutes)
+* Time Till Ready (minutes)
+* Time till on route (mins)
 
 Note: You can set different timings for these fields and you can use the other fields within this section, however this wont impact the Postmates integration.
 
@@ -109,7 +109,6 @@ Note: You can set different timings for these fields and you can use the other f
 
 ## FAQ
 
-* **What if I already have a Postmates account and are on their app? Do I still need a developer account?**
+*   **What if I already have a Postmates account and are on their app? Do I still need a developer account?**
 
-  You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the CloudWaitress Admin Dashboard.
-
+    You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the CloudWaitress Admin Dashboard.

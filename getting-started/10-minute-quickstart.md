@@ -6,7 +6,9 @@ description: >-
 
 # 10-Minute Quickstart
 
-{% embed url="https://youtu.be/Cd171XS0IGI" caption="Quickstart video tutorial" %}
+{% embed url="https://youtu.be/Cd171XS0IGI" %}
+Quickstart video tutorial
+{% endembed %}
 
 ## Quick-start Steps
 
@@ -24,4 +26,3 @@ description: >-
 ## What's Next
 
 At this point, you can customise the system as you please and start accepting orders. We recommend you continue reading the articles in this section. You will learn how to configure the system to your requirements and manage orders in-depth.
-

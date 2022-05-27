@@ -7,7 +7,9 @@ description: >-
 
 # Setup Your Menus
 
-{% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
+{% embed url="https://youtu.be/Nyyr2vwB1Io" %}
+Menu setup video tutorial
+{% endembed %}
 
 ## Setup Process
 
@@ -25,7 +27,7 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 
 ## Example Menu Structure
 
-```text
+```
 - Menu: Main menu
 -- Category: Pizzas
 ---- Dish: Ham & Cheese
@@ -44,7 +46,7 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 
 These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
 
-Menu availability can depend on certain conditions such as order types \(pickups or deliveries\), order timings \(e.g. pre-order only\). They can also be restricted to certain days and timings.
+Menu availability can depend on certain conditions such as order types (pickups or deliveries), order timings (e.g. pre-order only). They can also be restricted to certain days and timings.
 
 {% hint style="info" %}
 If you only have one menu available, there is no need to place restrictions on it. You can restrict the system globally to your business rules and the menu will work according to that. Restricting a menu to certain conditions is only needed if you have multiple menus
@@ -132,4 +134,3 @@ For your menu to display in your online store, make sure to add at least one cat
 ### **Dish images to large**
 
 We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
-
