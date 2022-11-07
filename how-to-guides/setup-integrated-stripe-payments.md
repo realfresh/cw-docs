@@ -7,7 +7,9 @@ description: >-
 
 # Setup Integrated Stripe Payments
 
+{% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) to activate this feature.
+{% endhint %}
 
 {% content-ref url="using-stripe-integrated.md" %}
 [using-stripe-integrated.md](using-stripe-integrated.md)

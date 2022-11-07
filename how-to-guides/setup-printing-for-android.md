@@ -8,7 +8,7 @@ description: >-
 
 Our system allows you to manually and automatically print out new orders. This guide will show you how to set order printing and troubleshoot issues.
 
-\|\| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance.
+|| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance.
 
 ## Requirements
 
@@ -20,7 +20,10 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ### Create A Printer Configuration
 
-1. Visit your restaurant dashboard and navigate to "Settings &gt; Receipt Printing"
+1.  Visit your restaurant dashboard and navigate to "Settings > Receipt Printing > Create Printer"\
+
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 2. Press the "New Printer" button and fill out any options needed
 3. On the "Printer Settings" tab, set your Printer Method to 'ESCPOS' and ESCPOS Printing Type to 'ESCPOS Image'.  Note that some older printers may not support this method and ESCPOS Text Only can be used in these cases.
 4. The defauly paper settings work for most printers.  If the test print is cutting of the edge of the text, please adjust the Paper Scale Factor to 1.7 and test again.
@@ -28,7 +31,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ![Printer Settings for Android](../.gitbook/assets/printer-settings.png)
 
-![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_bnxer6.png)
+![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_bnxer6.png)
 
 ### Install PushPrinter
 
@@ -69,6 +72,4 @@ Check your internet connection or try again shortly
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
-
-
 
