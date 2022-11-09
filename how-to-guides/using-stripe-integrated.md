@@ -20,11 +20,11 @@ If you cannot see this option in your dashboard, please see [this page](setup-in
 
 * From the Online Payments; Refunds, Payments & Order Details are shown here.
 
-![Example of the integrated payments dashboard without customer data.](<../.gitbook/assets/image (7).png>)
+![Example of the integrated payments dashboard without customer data.](<../.gitbook/assets/image (7) (1).png>)
 
 * For Refund - Click the refund button and choose reason then click “Refund”.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 * For Payouts, just click the payout button at the upper right pane of the page.  You can also review your payouts in your stripe dashboard at [dashboard.stripe.com](https://dashboard.stripe.com)
 
@@ -36,4 +36,4 @@ If you cannot see this option in your dashboard, please see [this page](setup-in
 Note that this can take a few mins to load after clicking the button
 {% endhint %}
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)

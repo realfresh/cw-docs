@@ -23,33 +23,71 @@ Our system allows you to manually and automatically print out new orders. This g
 1.  Visit your restaurant dashboard and navigate to "Settings > Receipt Printing > Create Printer"\
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-2. Press the "New Printer" button and fill out any options needed
-3. On the "Printer Settings" tab, set your Printer Method to 'ESCPOS' and ESCPOS Printing Type to 'ESCPOS Image'.  Note that some older printers may not support this method and ESCPOS Text Only can be used in these cases.
-4. The defauly paper settings work for most printers.  If the test print is cutting of the edge of the text, please adjust the Paper Scale Factor to 1.7 and test again.
-5. Create the print configuration. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy your API key soon.
+    <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+2. Fill out the following:
+   * Printer Name
+   * Go to Printer Settings and make sure that the Printing Method is “ESCPOS” and the Printing Type is in ESCPOS Image. (Note that some older printers may not support this method and ESCPOS Text Only can be used in these cases.
+   * The default paper settings work for most printers. If the test print is cutting off the edge of the text, please adjust the Paper Scale Factor to 1.7 and test again.
 
 ![Printer Settings for Android](../.gitbook/assets/printer-settings.png)
 
-![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_bnxer6.png)
+3\. Once all the printer configuration is done, click "Save"
+
+4\. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy your API key soon.
+
+![](<../.gitbook/assets/image (6).png>)
 
 ### Install PushPrinter
 
-1. Download PushPrinter from the following [link](https://www.pushprinter.com)
+1. Download PushPrinter from Playstore, or click on this [link](https://www.pushprinter.com)
 2. After it is installed successfully, PushPrinter will automatically open
 
 ### Configure PushPrinter
 
 1. Press the "Settings Cog" and select Default.
-2. Press on the "Printer Icon" tab at the top to configure a printing service
-3. Copy and paste the API key for the printer you created 2 steps ago
-4. Set the number of copies to print and select your printer
-5. Press the test print button
-6. Press the "Create Printer" button and make sure it says connected at the bottom
+
+## ![](<../.gitbook/assets/image (15).png>)
+
+![](<../.gitbook/assets/image (2).png>)
+
+
+
+2\. Press the "+” sign on the top to configure a printing service. Make sure that the printer is on.
+
+&#x20;![](../.gitbook/assets/push3.png)
+
+
+
+3\. Pair the Android device to the printer via Bluetooth
+
+![](<../.gitbook/assets/image (10).png>)
+
+
+
+4\. Once it’s successfully connected, a test print will be sent to the printer.
+
+<img src="../.gitbook/assets/image (11).png" alt="" data-size="original">
+
+
+
+5\. Fill out Printer Details such as the Printer Name, API Key and Number of Copies.
+
+Note: If it will ask for a pin code, oftentimes, it is “0000” or “1234”
+
+![](<../.gitbook/assets/image (13).png>)
+
+* API can be found on the restaurant's printer settings. (Settings > Receipt Printing)
+* Ensure that the API is correct.
+
+6\. Once all the details are filled out, check the status of the printer on your restaurant’s settings. Make sure it appears as connected.
+
+![](<../.gitbook/assets/image (7).png>)
 
 ### Test Print
 
 Visit your orders page. Select an order, under the action select bar, select print. We recommend printing both short and long orders to ensure that there is nothing being cut out vertically. If you have enabled auto-printing for this print configuration, place an order and test out the auto printing
+
+![](../.gitbook/assets/image.png)
 
 ## Troubleshooting
 
