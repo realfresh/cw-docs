@@ -1,4 +1,10 @@
-# Printing - Add a printer to Windows
+---
+description: >-
+  Use this guide for adding a USB printer driver to Windows, if not already
+  connected.
+---
+
+# Add a USB printer to Windows
 
 If printer drivers are not set up follow these instructions:
 
@@ -31,3 +37,7 @@ Use simple naming conventions for easy servicing in the future. i.e. Kitchen, Pi
 ![](../../.gitbook/assets/a6.png)
 
 7\. Your printer is now setup.
+
+{% hint style="info" %}
+Still need help setting up for receipt printer? Start a chat with our support team at cloudwaitress.com or book a set-up appointment with us [here](https://calendly.com/cloudwaitress).
+{% endhint %}

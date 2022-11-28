@@ -15,7 +15,7 @@
     * [Printing - Windows Network Printing](how-to-guides/understanding-printing/printing-windows-network-printing.md)
     * [Printing - Windows Shared Printing](how-to-guides/understanding-printing/printing-windows-shared-printing.md)
     * [Printing - API Key](how-to-guides/understanding-printing/printing-api-key.md)
-    * [Printing - Add a printer to Windows](how-to-guides/understanding-printing/printing-add-a-printer-to-windows.md)
+    * [Add a USB printer to Windows](how-to-guides/understanding-printing/printing-add-a-printer-to-windows.md)
     * [Setup Split Printing](how-to-guides/understanding-printing/setup-split-printing.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [🆕 Stripe+ Integrated Payments](how-to-guides/stripe+-integrated-payments.md)
