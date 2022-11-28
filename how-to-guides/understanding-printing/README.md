@@ -1,4 +1,12 @@
+---
+description: >-
+  Use our guides below for assistance on connecting up your CloudWaitress online
+  ordering store to your printer.
+---
+
 # Understanding Printing
+
+[setup-printing-for-android.md](setup-printing-for-android.md "mention")
 
 [setup-printing-for-windows.md](../setup-printing-for-windows.md "mention")
 
