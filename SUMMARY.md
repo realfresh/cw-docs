@@ -35,6 +35,7 @@
   * [Adding Closed Hours](how-to-guides/adding-closed-hours.md)
   * [How To Opt-Out Google Fonts](how-to-guides/how-to-opt-out-google-fonts.md)
   * [How To Add Monday-Sunday View on Weekly Reports](how-to-guides/how-to-add-monday-sunday-view-on-weekly-reports.md)
+  * [How To Add Bulgarian Language](how-to-guides/how-to-add-bulgarian-language.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
