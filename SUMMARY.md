@@ -34,7 +34,7 @@
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
   * [Adding Closed Hours](how-to-guides/adding-closed-hours.md)
   * [How To Opt-Out of Google Fonts](how-to-guides/how-to-opt-out-of-google-fonts.md)
-  * [How To Add Monday-Sunday View on Weekly Reports](how-to-guides/how-to-add-monday-sunday-view-on-weekly-reports.md)
+  * [How to change weekly reporting view](how-to-guides/how-to-change-weekly-reporting-view.md)
   * [How To Add Bulgarian Language](how-to-guides/how-to-add-bulgarian-language.md)
   * [Copying Printer API Key](how-to-guides/copying-printer-api-key.md)
   * [How To Add German Language](how-to-guides/how-to-add-german-language.md)

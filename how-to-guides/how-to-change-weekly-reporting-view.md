@@ -1,4 +1,10 @@
-# How To Add Monday-Sunday View on Weekly Reports
+---
+description: Instructions on how to change Sunday-Monday reporting view to Monday-Sunday.
+---
+
+# How to change weekly reporting view
+
+Most stores reporting periods are defaulted to the US standard of Sunday-Monday weekly reporting. However, this standard is different in most other countries and can easily be adjusted following the
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
