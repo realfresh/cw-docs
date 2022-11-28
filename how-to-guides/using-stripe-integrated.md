@@ -20,7 +20,7 @@ If you cannot see this option in your dashboard, please see [this page](setup-in
 
 * From the Online Payments; Refunds, Payments & Order Details are shown here.
 
-![Example of the integrated payments dashboard without customer data.](<../.gitbook/assets/image (7) (1).png>)
+![Example of the integrated payments dashboard without customer data.](<../.gitbook/assets/image (7) (1) (1).png>)
 
 * For Refund - Click the refund button and choose reason then click “Refund”.
 

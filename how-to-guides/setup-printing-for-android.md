@@ -81,7 +81,7 @@ Note: If it will ask for a pin code, oftentimes, it is “0000” or “1234”
 
 6\. Once all the details are filled out, check the status of the printer on your restaurant’s settings. Make sure it appears as connected.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ### Test Print
 
