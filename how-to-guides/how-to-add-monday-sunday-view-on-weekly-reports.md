@@ -6,7 +6,7 @@ How to change first day of the week on dashboard:
 
 1. Go to Settings > General > First day of the week.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 2\.  Choose desired day > Click “Save” and see the changes on the home dashboard.
 
