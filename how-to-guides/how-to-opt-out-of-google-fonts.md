@@ -5,11 +5,11 @@ description: >-
   Area.
 ---
 
-# How To Opt-Out Google Fonts
+# How To Opt-Out of Google Fonts
 
 The GDPR is an important component of EU privacy law and of human rights law, in particular Article 8 of the Charter of Fundamental Rights of the European Union.&#x20;
 
-We made the Google Fonts optional to allow EU accounts abide GDPR policies.
+Some countries interpretation of these laws indicate that the use of Google hosted fonts may breach these policies.  We have therefore made the use Google hosted fonts optional for those who want to disable this feature.  You can still use locally hosted Google Fonts inside the product, however the selection is more limited.
 
 1. Go to Settings > Website > Fonts
 
