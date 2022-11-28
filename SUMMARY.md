@@ -37,7 +37,7 @@
   * [How to change weekly reporting view](how-to-guides/how-to-add-monday-sunday-view-on-weekly-reports.md)
   * [Understanding Languages](how-to-guides/understanding-languages/README.md)
     * [How users can change languages on frontend](how-to-guides/understanding-languages/how-users-can-change-languages-on-frontend.md)
-  * [Copying Printer API Key](how-to-guides/copying-printer-api-key.md)
+  * [How to copy the printer API key](how-to-guides/how-to-copy-the-printer-api-key.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
