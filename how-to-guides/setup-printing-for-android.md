@@ -48,7 +48,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 ## ![](<../.gitbook/assets/image (15).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 
 
@@ -87,7 +87,7 @@ Note: If it will ask for a pin code, oftentimes, it is “0000” or “1234”
 
 Visit your orders page. Select an order, under the action select bar, select print. We recommend printing both short and long orders to ensure that there is nothing being cut out vertically. If you have enabled auto-printing for this print configuration, place an order and test out the auto printing
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 ## Troubleshooting
 
