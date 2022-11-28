@@ -8,15 +8,21 @@ description: >-
 
 Our system allows you to manually and automatically print out new orders. This guide will show you how to set order printing and troubleshoot issues.
 
-\|\| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
+|| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
 
 For step by step instructions by printing method.  Please use the following instructions.  It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
 
-{% page-ref page="printing-api-key.md" %}
+{% content-ref url="understanding-printing/printing-api-key.md" %}
+[printing-api-key.md](understanding-printing/printing-api-key.md)
+{% endcontent-ref %}
 
-{% page-ref page="printing-windows-shared-printing.md" %}
+{% content-ref url="understanding-printing/printing-windows-shared-printing.md" %}
+[printing-windows-shared-printing.md](understanding-printing/printing-windows-shared-printing.md)
+{% endcontent-ref %}
 
-{% page-ref page="printing-windows-network-printing.md" %}
+{% content-ref url="understanding-printing/printing-windows-network-printing.md" %}
+[printing-windows-network-printing.md](understanding-printing/printing-windows-network-printing.md)
+{% endcontent-ref %}
 
 ## Requirements
 
@@ -28,9 +34,9 @@ For step by step instructions by printing method.  Please use the following inst
 
 ### Verify Printer Drivers Are Installed & Working
 
-1. If your drivers are successfully installed, your printer will be shown on your PC under "Control Panel &gt; Hardware and Sound &gt; Devices and Printers"
+1. If your drivers are successfully installed, your printer will be shown on your PC under "Control Panel > Hardware and Sound > Devices and Printers"
 2. Right-click your printer and select "Properties"
-3. On the bottom left, press "Print Test Page". 
+3. On the bottom left, press "Print Test Page".&#x20;
 4. Verify that the test page successfully printed
 
 If this is successful, your printer will work fine. If you cannot find your printer or it doesn't work, reinstall the driver again.
@@ -45,21 +51,21 @@ Other times you may select "Preferences" at the bottom of the printer properties
 
 Refer to the image below to see what this may look like.
 
-![Printer paper size settings](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1vcnqy8.png)
+![Printer paper size settings](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1vcnqy8.png)
 
 Take note of the paper sizes available as you will likely need to try a few to get it working flawlessly
 
 ### Create A Printer Configuration
 
-1. Visit your restaurant dashboard and navigate to "Settings &gt; Receipt Printing"
+1. Visit your restaurant dashboard and navigate to "Settings > Receipt Printing"
 2. Press the "New Printer" button and fill out any options needed
 3. On the "Paper Settings" tab, set your paper width and paper height according to the largest available paper size available for your printer as noted in the previous step. Going off the image above, we would enter a width of "72" and a height of "210"
 4. We highly recommend starting with a font size of "18" and a paper margin of "0"
 5. Create the print configuration. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy your API key soon
 
-![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_bnxer6.png)
+![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_bnxer6.png)
 
-\|\| The paper sizes entered in your printer configuration must match your Windows paper size settings as set in the printer driver options. If the printout is incorrect or skewed, you will need to test out the other sizes from largest to smallest. When changing the sizes in the printer configuration make sure to change it in the Windows printer driver settings.
+|| The paper sizes entered in your printer configuration must match your Windows paper size settings as set in the printer driver options. If the printout is incorrect or skewed, you will need to test out the other sizes from largest to smallest. When changing the sizes in the printer configuration make sure to change it in the Windows printer driver settings.
 
 ### Install PushPrinter
 
@@ -69,16 +75,16 @@ Take note of the paper sizes available as you will likely need to try a few to g
 
 ### Configure PushPrinter
 
-1. The first thing you will likely want to do is toggle the "Auto Start" switch so it connects and starts when your PC is started.  Activate this by selecting the "Settings Cog" and ticking the 'Automatically start PushPrinter' button \(image 1.1\).
+1. The first thing you will likely want to do is toggle the "Auto Start" switch so it connects and starts when your PC is started.  Activate this by selecting the "Settings Cog" and ticking the 'Automatically start PushPrinter' button (image 1.1).
 2. Press on the "Printer Icon" tab at the top to configure a printing service
-3. Press "Create Printer" button \(image 1.2\).
+3. Press "Create Printer" button (image 1.2).
 4. Copy and paste the API key for the printer you created 2 steps ago
 5. Set the number of copies to print and select your printer
 6. Press the start button and make sure it says connected at the bottom
 
-![Image 1.1 - &apos;Automatically start PushPrinter&apos; button](../.gitbook/assets/pushprinter-settings.png)
+![Image 1.1 - 'Automatically start PushPrinter' button](../.gitbook/assets/pushprinter-settings.png)
 
-![Image 1.2 - &apos;Create Printer&apos;](../.gitbook/assets/create-printer-pushprinter.png)
+![Image 1.2 - 'Create Printer'](../.gitbook/assets/create-printer-pushprinter.png)
 
 ### Test Print
 
@@ -113,4 +119,3 @@ You need to find the correct driver for your printer provided its available for 
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Windows detects your printer. Try restarting your printer or PC. Try printing to your printer from other programs on your PC such as your browser.
-
