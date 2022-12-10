@@ -7,7 +7,7 @@ description: >-
 # Setup Stripe Payments
 
 {% hint style="success" %}
-We now recommend using [stripe+-integrated-payments.md](stripe+-integrated-payments.md "mention")
+We now recommend using [stripe+-integrated-payments](stripe+-integrated-payments/ "mention")
 {% endhint %}
 
 You can accept credit cards online using [Stripe](https://stripe.com/). It is currently supported in numerous countries with a variety of currencies. If Stripe is not supported in your country you can apply to try Stripe Atlas. Below is our simple guide on setting up Stripe and managing your account.
