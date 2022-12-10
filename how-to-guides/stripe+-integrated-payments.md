@@ -8,7 +8,7 @@ description: >-
 
 ## About Stripe
 
-You can accept credit cards, Google pay and Apple pay online using Stripe. It is currently supported in numerous countries with a variety of currencies, which can be check [here](https://stripe.com/global).
+You can accept credit cards, Google pay and Apple pay online using Stripe. It is currently supported in numerous countries with a variety of currencies, which can be checked [here](https://stripe.com/global).
 
 ## **About the Stripe+ Feature**
 

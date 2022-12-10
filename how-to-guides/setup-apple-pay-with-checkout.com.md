@@ -6,7 +6,7 @@ description: >-
 
 # Setup Apple Pay with Checkout.com
 
-![Apple pay allows iOS users to pay using their phone](../../.gitbook/assets/apple-pay-final.png)
+![Apple pay allows iOS users to pay using their phone](../.gitbook/assets/apple-pay-final.png)
 
 ## How Apple Pay Works
 
@@ -99,7 +99,7 @@ After configuring Apple Developer Account and Checkout.com, we need to do some s
 2. Click on the **Payments** tab and click **Add Payment Method**.
 3. Select **Apple Pay (Checkout.com)** in the payment method list, and click **Add Method**.
 
-![Adding Apple Pay (Checkout.com) payment method](../../.gitbook/assets/add-apple-pay.png)
+![Adding Apple Pay (Checkout.com) payment method](../.gitbook/assets/add-apple-pay.png)
 
 ### Get Your Checkout.com Keys
 
@@ -107,7 +107,7 @@ After configuring Apple Developer Account and Checkout.com, we need to do some s
 2. Create a new channel if necessary.
 3. Access your channel, under the **API Keys** section, you can copy the **Secret key** and **Public key**.
 
-![Checkout.com Channel API Keys](../../.gitbook/assets/apikeys.png)
+![Checkout.com Channel API Keys](../.gitbook/assets/apikeys.png)
 
 ### Update the Payment Method Settings
 
@@ -134,7 +134,7 @@ Go back to your merchant page in your **Apple Developer account**. Under the **M
 
 ### Unable to Make Changes to Apple Pay Merchant
 
-![](../../.gitbook/assets/warning.png)
+![](../.gitbook/assets/warning.png)
 
 If you receive the warning about the Apple Pay Platform Web Merchant Terms and Conditions like the above image. You should ask your Apple Developer account holder to visit the merchant page, click on the link inside the warning, and accept the terms. Otherwise, you'll not be able to make changes to the merchant like adding domains or generate certificates.
 
