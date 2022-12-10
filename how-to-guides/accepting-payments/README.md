@@ -10,7 +10,9 @@ description: >-
 
 We have worked hard to craft the best payments experience without compromising security. Our Stripe+ offering allows the acceptance of Credit Cards, Google pay and Apple pay.
 
+{% hint style="success" %}
 [stripe+-integrated-payments.md](../stripe+-integrated-payments.md "mention")
+{% endhint %}
 
 This feature is supported in [these countries](https://stripe.com/global).
 
