@@ -36,10 +36,13 @@ Here are some of the things we can customize for you:
 * Auto-verify email addresses
 * Pre-set store design & settings
 * Custom chat widget integration
+* Marketplace builder (optional)
 
 ## Pricing
 
 We only charge a low flat monthly cost per restaurant. Please get in touch with us to find out the exact amount. There are no other fees involved.
+
+We can support a revenue share model in specific circumstances.  Please contact us to discuss.
 
 ## Requirements
 
@@ -47,7 +50,7 @@ We only charge a low flat monthly cost per restaurant. Please get in touch with 
 
 You will need your own domain name to set up a reseller account. A domain name is used to host your admin dashboard application and your customer's online stores.
 
-For example, the admin interface can be located at "admin.example.com". All your online stores can be found at "\(name\).example.com". Optionally, a separate custom domain can be connected to your individual online stores.
+For example, the admin interface can be located at "admin.example.com". All your online stores can be found at "(name).example.com". Optionally, a separate custom domain can be connected to your individual online stores.
 
 ### Support E-mail Address
 
@@ -55,18 +58,20 @@ We require one support email address to white-label all support and system email
 
 Please note, Gmail, Hotmail and other e-mail hosting providers will not work for this. A custom domain email address is mandatory.
 
-### Billing System \(Optional\)
+### Billing System (Optional)
 
-You will need a way to bill your clients as their subscription is not managed by us. Consider using software such as [https://www.chargebee.com](https://www.chargebee.com). We provide an integration with them for resellers to automate client billing.  Please note that extra fees and charges apply.
+You will need a way to bill your clients as their subscription is not managed by us. We provide a system to manage you own billing and we also can provide an integration with Stripe for resellers to automate client billing.  Please note that extra fees and charges apply for Stipe processing.
+
+We also support the collection of commissions from payments should you want to charge a percentage of sales or a fee per order.
 
 ## Setup Process
 
-On average, it takes 2 days to complete the reseller account set up once we have gotten all the information required from you. Here are the steps involved:
+On average, it takes 7 days to complete the reseller account set up once we have gotten all the information required from you. Here are the steps involved:
 
 1. Contact us and we will send you the online reseller sign up form
 2. Complete the form to start the process
 3. We will request your billing information along with the initial deposit.
-4. Once the deposit is confirmed, we will configure your reseller account 
+4. Once the deposit is confirmed, we will configure your reseller account&#x20;
 5. We will provide you with the necessary details to configure your web domain and to set up the platform
 6. After this, you can review your setup, create a demo account and make any post set up modifications
 
@@ -83,4 +88,3 @@ Reseller customer accounts are not tied into our mailing systems meaning they do
 We want to have a mutually beneficial relationship with our resellers. We see our role as being able to provide a reliable and robust online ordering system that is always being improved. The role of the reseller lies in the implementation and packaging of the system for businesses.
 
 To avoid the issue of your clients potentially being upset at a difference in pricing from resellers and CloudWaitress itself, it's best to take a value-added pricing approach. What this means is to find ways to add value on top of the bare online ordering system. For example, you can offer packages that include system setup, facebook ad designs, printers, staff training, ongoing support and much more.
-
