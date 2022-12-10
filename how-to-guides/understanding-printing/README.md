@@ -8,7 +8,7 @@ description: >-
 
 [setup-printing-for-android.md](setup-printing-for-android.md "mention")
 
-[setup-printing-for-windows.md](../setup-printing-for-windows.md "mention")
+[setup-printing-for-windows.md](setup-printing-for-windows.md "mention")
 
 [printing-windows-network-printing.md](printing-windows-network-printing.md "mention")
 

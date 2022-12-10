@@ -12,16 +12,16 @@ Our system allows you to manually and automatically print out new orders. This g
 
 For step by step instructions by printing method.  Please use the following instructions.  It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
 
-{% content-ref url="understanding-printing/printing-api-key.md" %}
-[printing-api-key.md](understanding-printing/printing-api-key.md)
+{% content-ref url="printing-api-key.md" %}
+[printing-api-key.md](printing-api-key.md)
 {% endcontent-ref %}
 
-{% content-ref url="understanding-printing/printing-windows-shared-printing.md" %}
-[printing-windows-shared-printing.md](understanding-printing/printing-windows-shared-printing.md)
+{% content-ref url="printing-windows-shared-printing.md" %}
+[printing-windows-shared-printing.md](printing-windows-shared-printing.md)
 {% endcontent-ref %}
 
-{% content-ref url="understanding-printing/printing-windows-network-printing.md" %}
-[printing-windows-network-printing.md](understanding-printing/printing-windows-network-printing.md)
+{% content-ref url="printing-windows-network-printing.md" %}
+[printing-windows-network-printing.md](printing-windows-network-printing.md)
 {% endcontent-ref %}
 
 ## Requirements
@@ -82,9 +82,9 @@ Take note of the paper sizes available as you will likely need to try a few to g
 5. Set the number of copies to print and select your printer
 6. Press the start button and make sure it says connected at the bottom
 
-![Image 1.1 - 'Automatically start PushPrinter' button](../.gitbook/assets/pushprinter-settings.png)
+![Image 1.1 - 'Automatically start PushPrinter' button](../../.gitbook/assets/pushprinter-settings.png)
 
-![Image 1.2 - 'Create Printer'](../.gitbook/assets/create-printer-pushprinter.png)
+![Image 1.2 - 'Create Printer'](../../.gitbook/assets/create-printer-pushprinter.png)
 
 ### Test Print
 
