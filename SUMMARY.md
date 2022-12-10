@@ -18,7 +18,7 @@
     * [Add a USB printer to Windows](how-to-guides/understanding-printing/printing-add-a-printer-to-windows.md)
     * [Setup Split Printing](how-to-guides/understanding-printing/setup-split-printing.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
-  * [🆕 Stripe+ Integrated Payments](how-to-guides/stripe+-integrated-payments.md)
+  * [🔐 Stripe+ Integrated Payments](how-to-guides/stripe+-integrated-payments.md)
   * [Setup Integrated Stripe Payments](how-to-guides/setup-integrated-stripe-payments.md)
   * [Using Stripe Integrated](how-to-guides/using-stripe-integrated.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
