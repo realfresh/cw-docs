@@ -6,31 +6,35 @@ description: >-
 
 # Setup Stripe Payments
 
+{% hint style="success" %}
+We now recommend using [stripe+-integrated-payments.md](stripe+-integrated-payments.md "mention")
+{% endhint %}
+
 You can accept credit cards online using [Stripe](https://stripe.com/). It is currently supported in numerous countries with a variety of currencies. If Stripe is not supported in your country you can apply to try Stripe Atlas. Below is our simple guide on setting up Stripe and managing your account.
 
 ## How Stripe Payments Work
 
 When Stripe is enabled, customers can choose from the online payment option when checking out. If a customer selects "Credit Card", the credit card field will drop-down below.
 
-![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_16wk7ks.png)
+![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_16wk7ks.png)
 
 ## Connecting Your Stripe Account
 
 1. Create an account on the Stripe website if you do not already have one
-2. Ensure you are viewing your live account and not your test account 
-3. Login to your account dashboard. On the left navigation, go to "Developers &gt; API Keys"
-4. Next, open up your restaurant dashboard and navigate to "Settings &gt; Payments &gt; Stripe"
+2. Ensure you are viewing your live account and not your test account&#x20;
+3. Login to your account dashboard. On the left navigation, go to "Developers > API Keys"
+4. Next, open up your restaurant dashboard and navigate to "Settings > Payments > Stripe"
 5. Enable Stripe payments using the "Enable" switch
 6. Copy the "Publishable Key" and "Secret Key" from the Stripe dashboard into the restaurant dashboard
 7. Set your payment currency in the restaurant dashboard and save the settings
 
-![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
+![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_4cpfy8.png)
 
 ## Testing Payments
 
 If you would like to do a test payment, copy your test API keys from Stripe. You can do this by toggling the "Viewing test data" switch.
 
-![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bjx53a.png)
+![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bjx53a.png)
 
 Once this is done, you can use the credit card number "4242 4242 4242 4242" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
 
@@ -51,4 +55,3 @@ Stripe enables you to accept different currencies online depending on the countr
 ## Issuing Refunds
 
 Stripe refunds can be processed from your order management dashboard or the Stripe dashboard. In the order management dashboard, the refund payment option is available in the order details popup. Simply press the action select bar and choose "Refund Stripe Payment".
-

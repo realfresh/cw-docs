@@ -1,10 +1,16 @@
 ---
 description: >-
-  Learn how to setup our new integrated Stripe payments feature, allowing you to
+  Learn how to setup our integrated Stripe payments feature, allowing you to
   manage your payments, refunds and payouts inside of your admin page.
 ---
 
 # 🔐 Stripe+ Integrated Payments
+
+## About Stripe
+
+You can accept credit cards, Google pay and Apple pay online using Stripe. It is currently supported in numerous countries with a variety of currencies, which can be check [here](https://stripe.com/global).
+
+## **About the Stripe+ Feature**
 
 Get the most from your online ordering system and enable Stripe+ to unlock multiple additional features inside your account.&#x20;
 
