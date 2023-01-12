@@ -1,8 +1,4 @@
----
-description: Changing Bank Account / Debit Card Details Associated with an Express Account
----
-
-# Page 1
+# Changing Bank Account / Debit Card Details Associated with an Express Account
 
 To update bank account details, an Express user should head to the **Account Tab** in their Dashboard**.** Under **Payout Details**, they will see the platforms tied to their account. Once a platform is selected, they will be able to update:
 

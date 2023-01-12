@@ -14,7 +14,7 @@
     * [🔐 Stripe+ Integrated Payments](how-to-guides/stripe+-integrated-payments.md)
       * [Setup Integrated Stripe Payments](how-to-guides/setup-integrated-stripe-payments.md)
       * [Using Stripe Integrated](how-to-guides/using-stripe-integrated.md)
-      * [Page 1](how-to-guides/accepting-payments/stripe+-integrated-payments/page-1.md)
+      * [Changing Bank Account / Debit Card Details Associated with an Express Account](how-to-guides/accepting-payments/stripe+-integrated-payments/changing-bank-account-debit-card-details-associated-with-an-express-account.md)
     * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
     * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)
     * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
