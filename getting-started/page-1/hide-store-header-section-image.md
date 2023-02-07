@@ -8,7 +8,7 @@ description: How to Hide the Store Header Section in your CloudWaitress store
 
 **Author:** Christopher Timm
 
-<figure><img src="../../.gitbook/assets/Remove Header Image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Remove Header Image.png" alt=""><figcaption><p>Before and after example of changing the header show setting</p></figcaption></figure>
 
 ### 1. [Go to admin.cloudwaitress.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
 
