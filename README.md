@@ -2,18 +2,22 @@
 description: >-
   Welcome to the CloudWaitress knowledge base. Here you will find articles to
   help you setup and understand how our platform works. If you need assistance,
-  do not hesitate to contact us.
+  please do not hesitate to contact us.
 ---
 
 # Overview
 
-{% page-ref page="getting-started/" %}
+{% content-ref url="getting-started/" %}
+[getting-started](getting-started/)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-guides/" %}
+{% content-ref url="how-to-guides/" %}
+[how-to-guides](how-to-guides/)
+{% endcontent-ref %}
 
-{% page-ref page="platform-information/" %}
-
-
+{% content-ref url="platform-information/" %}
+[platform-information](platform-information/)
+{% endcontent-ref %}
 
 
 
