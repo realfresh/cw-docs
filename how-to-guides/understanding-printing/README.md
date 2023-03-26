@@ -19,3 +19,7 @@ description: >-
 [printing-add-a-printer-to-windows.md](printing-add-a-printer-to-windows.md "mention")
 
 [setup-split-printing.md](setup-split-printing.md "mention")
+
+
+
+To review all our printing features, visit our [printing features page](https://www.cloudwaitress.com/features/windows-or-linux-based-printing).
