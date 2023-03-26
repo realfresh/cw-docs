@@ -7,5 +7,5 @@ description: >-
 # Getting Started
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Create account at CloudWaitress.com](https://www.cloudwaitress.com/signup/)
 {% endhint %}
