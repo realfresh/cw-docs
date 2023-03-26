@@ -19,5 +19,7 @@ description: >-
 [platform-information](platform-information/)
 {% endcontent-ref %}
 
-
+{% hint style="info" %}
+[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+{% endhint %}
 

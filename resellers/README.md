@@ -7,3 +7,6 @@ description: >-
 
 # Resellers
 
+{% hint style="info" %}
+[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+{% endhint %}
