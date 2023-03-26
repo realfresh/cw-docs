@@ -20,6 +20,8 @@ description: >-
 
 [setup-split-printing.md](setup-split-printing.md "mention")
 
-
-
 To review all our printing features, visit our [printing features page](https://www.cloudwaitress.com/features/windows-or-linux-based-printing).
+
+
+
+[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
