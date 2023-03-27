@@ -7,6 +7,18 @@ description: >-
 
 # Resellers
 
+{% content-ref url="overview.md" %}
+[overview.md](overview.md)
+{% endcontent-ref %}
+
+{% content-ref url="getting-started.md" %}
+[getting-started.md](getting-started.md)
+{% endcontent-ref %}
+
+{% content-ref url="documentation.md" %}
+[documentation.md](documentation.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 [Go back to CloudWaitress.com](https://www.cloudwaitress.com/resellers/)
 {% endhint %}
