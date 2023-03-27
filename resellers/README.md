@@ -20,5 +20,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com/resellers/)
+[Find out more about becoming a reseller or affiliate at CloudWaitress.com](https://www.cloudwaitress.com/resellers/)
 {% endhint %}
