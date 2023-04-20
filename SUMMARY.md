@@ -18,6 +18,7 @@
     * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
     * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)
     * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
+    * [Set up Bancontact Payments](how-to-guides/accepting-payments/set-up-bancontact-payments.md)
   * [Design Customization - Advanced](how-to-guides/design-customization-advanced/README.md)
     * [Hide Store Header Section (image)](how-to-guides/design-customization-advanced/hide-store-header-section-image.md)
   * [Understanding Printing](how-to-guides/understanding-printing/README.md)
