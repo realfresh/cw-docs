@@ -15,11 +15,11 @@ Uber DaaS is a reliable and convenient way to get your food delivered quickly an
 
 1. On the Admin Dashboard, click Settings > Integrations and find the Uber Delivery Management card and click on it.
 
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-10 at 9.52.37 AM.png" alt=""><figcaption></figcaption></figure>
 
 2. A popup will open and fill up the information. Click Save.
 
-<figure><img src="../.gitbook/assets/Uber(2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-10 at 9.56.08 AM.png" alt=""><figcaption></figcaption></figure>
 
 3. Set Uber as Default Delivery
 
