@@ -25,7 +25,7 @@ Uber DaaS is a reliable and convenient way to get your food delivered quickly an
 
 Once you have enabled Uber DaaS, you can select the Default Delivery Provider in the Settings > Services > Deliveries (as shown in the image below)
 
-<figure><img src="../.gitbook/assets/Uber (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-10 at 9.47.12 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Notes:
 
