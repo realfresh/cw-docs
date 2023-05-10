@@ -75,4 +75,3 @@ description: How to guide to print with a network printer
 
 15\. Go to your store and place a test order.
 
-****
