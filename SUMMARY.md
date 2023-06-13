@@ -46,6 +46,7 @@
     * [How users can change languages on frontend](how-to-guides/understanding-languages/how-users-can-change-languages-on-frontend.md)
   * [How to Show/Hide Header Function](how-to-guides/how-to-show-hide-header-function.md)
   * [Uber Direct Setup Manual](how-to-guides/uber-direct-setup-manual.md)
+  * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
