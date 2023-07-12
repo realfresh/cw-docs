@@ -46,7 +46,7 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 
 These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
 
-Menu availability can depend on certain conditions such as order types (pickups or deliveries), order timings (e.g. pre-order only). They can also be restricted to certain days and timings.
+Menu availability can depend on certain conditions such as order types (pickups, deliveries or dine-ins), order timings (now, later or pre-order only). They can also be restricted to certain days and timings.
 
 {% hint style="info" %}
 If you only have one menu available, there is no need to place restrictions on it. You can restrict the system globally to your business rules and the menu will work according to that. Restricting a menu to certain conditions is only needed if you have multiple menus
@@ -60,7 +60,7 @@ Categories represent a sub-section of a menu and consist of dishes. For example,
 * Mains
 * Sides
 * Drinks
-* Deserts
+* Desserts
 
 {% hint style="info" %}
 In some instances, you may need to create a separate menu instead of using a category. For example, If you have many different categories of drinks, such as spirits, wines, beers, sodas, etc. You might want to create a separate drinks menu for all those categories instead of adding it to your food menu.
@@ -100,7 +100,7 @@ Combo dishes cannot contain option sets or ingredients directly. Instead when a 
 There are 3 statuses available for a dish. They are:
 
 * Hidden - hides dish from the menu
-* Not available - prevents ordering and shows not available on the dish
+* Available - shows dish from the menu and allows ordering
 * Out of stock - prevents ordering and shows out of stock on the dish
 
 In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
