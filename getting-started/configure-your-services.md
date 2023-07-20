@@ -93,11 +93,11 @@ Both estimated wait times and automated status updates are connected to the same
 
 ### Estimated Wait Times
 
-A stated, customer wait times are calculated using the above timing settings.&#x20;
+As stated, customer wait times are calculated using the above timing settings.&#x20;
 
 #### How estimated wait time are calculated for pickup or dine-in orders
 
-For pickup and dine-in orders, the estimated wait time is calculating but adding the **time till confirm** with the **time till ready** values. So for example, if your **time till confirm** was 5 and your **time till ready** was 20. The customer would get an estimated wait time of 20 + 5 = 25 minutes.
+For pickup and dine-in orders, the estimated wait time is calculating buy adding the **time till confirm** with the **time till ready** values. So for example, if your **time till confirm** was 5 and your **time till ready** was 20. The customer would get an estimated wait time of 20 + 5 = 25 minutes.
 
 If you have not added a value for time till confirm or time till ready, the estimated wait time would not be calculated.
 
@@ -208,5 +208,5 @@ If a customer places a delivery order at 6:00pm which is due at 7:00pm, the foll
 If a delivery order is scheduled for a later time but the estimated delivery time could not be calculated, then the ready and on route status will not update automatically.
 
 {% hint style="info" %}
-If ever in doubt about how the auto status timings will work for you scenario, just think about how it would logically work in a way that makes sense to your customer and you. That is how we have designed it to work.
+If ever in doubt about how the auto status timings will work for your scenario, just think about how it would logically work in a way that makes sense to your customer and you. That is how we have designed it to work.
 {% endhint %}
