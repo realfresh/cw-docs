@@ -6,14 +6,14 @@ description: Learn how to manage your white-labelled support documentation for y
 
 ## Creating Your Support Documentation
 
-1. Visit[https://github.com](https://github.com) and create an account.
-2. Visit[https://www.gitbook.com](https://www.gitbook.com) and register an account
+1. Visit [https://github.com](https://github.com) and create an account.
+2. Visit [https://www.gitbook.com](https://www.gitbook.com) and register an account.
 3. Go to [https://github.com/realfresh/cw-docs](https://github.com/realfresh/cw-docs) and press the fork button on the top right to create your own copy under your account or use an existing desired repository. It’s very important to forked the files before syncing.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.38.03 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Go back to GitBook and create your first documentation space.
-5. In your documentation space, using the top navigation bar, select integrations
+5. In your documentation space, using the top navigation bar, select integrations.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.34.14 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -21,15 +21,15 @@ description: Learn how to manage your white-labelled support documentation for y
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.35.30 PM.png" alt=""><figcaption></figcaption></figure>
 
-7. Go back to the selected documentation space and sekect “Synchronize with Git”
+7. Go back to the selected documentation space and select “Synchronize with Git”.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.25.34 PM.png" alt=""><figcaption></figcaption></figure>
 
-8. Then select GitHub as a provider then click Configure
+8. Then select GitHub as a provider then click Configure.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.29.17 PM.png" alt=""><figcaption></figcaption></figure>
 
-9. Connect your account with GitHub
+9. Connect your account with GitHub.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.30.12 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,8 +45,8 @@ description: Learn how to manage your white-labelled support documentation for y
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.40.04 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-13. After this, your forked documentation repository will be synced over to gitbook
-14. At this point, you can follow the editing steps below to make changes
+13. After this, your forked documentation repository will be synced over to GitBook.
+14. At this point, you can follow the editing steps below to make changes.
 
 ##
 
