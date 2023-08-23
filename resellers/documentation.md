@@ -8,7 +8,7 @@ description: Learn how to manage your white-labelled support documentation for y
 
 1. Visit [https://github.com](https://github.com) and create an account.
 2. Visit [https://www.gitbook.com](https://www.gitbook.com) and register an account.
-3. Go to [https://github.com/realfresh/cw-docs](https://github.com/realfresh/cw-docs) and press the fork button on the top right to create your own copy under your account or use an existing desired repository. **It’s very important to fork the files before syncing to GitBook.**
+3. Go to [https://github.com/realfresh/cw-docs](https://github.com/realfresh/cw-docs) and press the fork button on the top right to create your own copy under your account or use an existing desired repository. **It holds significant importance to fork files prior to initiating synchronization with GitBook.**
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.38.03 PM (1).png" alt=""><figcaption></figcaption></figure>
 
