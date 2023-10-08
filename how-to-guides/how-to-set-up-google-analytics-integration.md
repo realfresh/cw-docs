@@ -13,3 +13,10 @@ description: Add Google Analytics to your ordering site to track visitors
 3.  Enter the unique analytics property/ tracking ID
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 5.33.23 AM (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Note:
+
+For sales tracking you need to add google tag manager in custom css section.
+
