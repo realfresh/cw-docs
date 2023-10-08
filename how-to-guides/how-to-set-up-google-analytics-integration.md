@@ -10,10 +10,8 @@ description: Add Google Analytics to your ordering site to track visitors
 2.  Go to Settings > Integrations > Google Analytics
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 5.24.00 AM (7).png" alt=""><figcaption></figcaption></figure>
+3. \
 
-\
+4.  Enter the unique analytics property/ tracking ID
 
-
-1.
-
-    <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 5.33.23 AM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 5.33.23 AM (1).png" alt=""><figcaption></figcaption></figure>
