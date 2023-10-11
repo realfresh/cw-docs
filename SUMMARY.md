@@ -49,6 +49,7 @@
   * [How to Show/Hide Header Function](how-to-guides/how-to-show-hide-header-function.md)
   * [Uber Direct Setup Manual](how-to-guides/uber-direct-setup-manual.md)
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
+* [Examples of Dates & Times and their corresponding formats](examples-of-dates-and-times-and-their-corresponding-formats.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
