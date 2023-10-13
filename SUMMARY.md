@@ -32,6 +32,7 @@
     * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Setup Custom Checkout Fields](how-to-guides/setup-custom-checkout-fields.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
+  * [Setup Google OAuth Client ID](how-to-guides/setup-google-oauth-client-id.md)
   * [How to integrate Postmates with CloudWaitress](how-to-guides/how-to-integrate-postmates-with-cloudwaitress.md)
   * [How To Set Up Google Analytics Integration](how-to-guides/how-to-set-up-google-analytics-integration.md)
   * [How to add SEO (Search Engine Optimization)](how-to-guides/how-to-add-seo-search-engine-optimization.md)
