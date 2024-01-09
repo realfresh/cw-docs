@@ -51,6 +51,7 @@
   * [Uber Direct Setup Manual](how-to-guides/uber-direct-setup-manual.md)
   * [Examples of Dates & Times and their corresponding formats](how-to-guides/examples-of-dates-and-times-and-their-corresponding-formats.md)
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
+  * [Bump Screen Technology](how-to-guides/bump-screen-technology.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
