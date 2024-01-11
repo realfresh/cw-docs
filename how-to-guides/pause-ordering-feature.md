@@ -7,6 +7,16 @@ description: >-
 
 # Pause Ordering Feature
 
+### Temporary Pause Online Ordering&#x20;
+
+if your store is temporarily closed during normal business hours, you can use this feature to suspend online and mobile app orders. When customers try to place an order, a message will show  that your store is currently closed.
+
+
+
+<figure><img src="../.gitbook/assets/Screen Shot 2024-01-11 at 7.22.39 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+When you pause online ordering, your platform will not allow any connected devices to place an order. This feature is effective instantly and will be automatically undone after the set time.  If your store is permanently closed on a certain day, set closed hours instead [https://support.cloudwaitress.com/how-to-guides/adding-closed-hours](https://support.cloudwaitress.com/how-to-guides/adding-closed-hours)
+
 ### Steps :
 
 1. On the Admin Dashboard, click on the Order Icon&#x20;
