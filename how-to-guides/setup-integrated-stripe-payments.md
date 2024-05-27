@@ -7,23 +7,42 @@ description: >-
 
 # Setup Integrated Stripe Payments
 
-1. Login to your [admin.cloudwaitress.com](https://admin.cloudwaitress.com) dashboard.
-2. Go to Settings > Payments > Add Payment Method > Stripe > Add Method
+### Steps to Set Up Stripe+ Payments:
+
+1. **Login:** Access your admin dashboard at [admin.cloudwaitress.com](https://admin.cloudwaitress.com).
+2. **Navigate to Settings:** Go to **Settings > Payments > Add Payment Method > Stripe > Add Method**.
 
 <figure><img src="../.gitbook/assets/Settings-payments-Stripe.png" alt=""><figcaption><p>Settings > Payments > Add Payment Method > Stripe > Add Method</p></figcaption></figure>
 
-3. We recommend the following minimum settings for Stripe;
+#### Recommended Minimum Settings for Stripe:
 
-<table data-full-width="true"><thead><tr><th>Setting</th><th>Recommendation</th><th>Notes</th></tr></thead><tbody><tr><td>Enabled</td><td>On</td><td>Activates feature</td></tr><tr><td>Stripe Secret Key</td><td>sk_live</td><td></td></tr><tr><td>Stripe Publishable Key</td><td>pk_live</td><td></td></tr><tr><td>Stripe Version</td><td>Version 2</td><td>Only use Version 1 if requested by CloudWaitress support</td></tr><tr><td>Currency</td><td>AUD - Australian Dollar - $</td><td>Use your local currency</td></tr><tr><td>Disable E-Mail Receipt</td><td></td><td></td></tr><tr><td>Enable Custom Payment Form</td><td></td><td></td></tr><tr><td>Layout</td><td></td><td></td></tr><tr><td>Themes</td><td></td><td></td></tr><tr><td>Services</td><td></td><td></td></tr><tr><td>Label</td><td>Pay - Online</td><td></td></tr><tr><td>Delivery Label</td><td></td><td></td></tr><tr><td>Print Label</td><td>*PAID - ONLINE*</td><td></td></tr><tr><td>Maximum Order Value ($)</td><td>999</td><td>Set as realistic maximum online order total</td></tr><tr><td>Minimum Order Value ($2)</td><td>2</td><td>Minimum transaction should not be lower than $2</td></tr><tr><td>SC Account ID</td><td>GET THIS FROM SUPPORT<br>Example format - acct_1A3abABCABCac1aA</td><td>Contact chat/<a href="mailto:support@cloudwaitress.com">email</a> support to activate your SC ACCOUNT ID<br></td></tr></tbody></table>
+| Setting                        | Recommendation              | Notes                                                                                               |
+| ------------------------------ | --------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Enabled**                    | On                          | Activates the feature                                                                               |
+| **Stripe Secret Key**          | sk\_live                    |                                                                                                     |
+| **Stripe Publishable Key**     | pk\_live                    |                                                                                                     |
+| **Stripe Version**             | Version 2                   | Only use Version 1 if requested by CloudWaitress support                                            |
+| **Currency**                   | AUD - Australian Dollar - $ | Use your local currency                                                                             |
+| **Disable E-Mail Receipt**     |                             |                                                                                                     |
+| **Enable Custom Payment Form** |                             |                                                                                                     |
+| **Layout**                     | Themes                      |                                                                                                     |
+| **Services**                   | Label                       | Pay - Online                                                                                        |
+| **Delivery Label**             | Print Label                 | _PAID - ONLINE_                                                                                     |
+| **Maximum Order Value ($)**    | 999                         | Set a realistic maximum online order total                                                          |
+| **Minimum Order Value ($)**    | 2                           | Minimum transaction should not be lower than $2                                                     |
+| **SC Account ID**              | GET THIS FROM SUPPORT       | Example format - acct\_1A3abABCABCac1aA. Contact chat/email support to activate your SC Account ID. |
 
-4. Press Save
-5. Launch your store and place a live test order with your Card, Google Pay or Apple pay.
+3. **Save Settings:** Press **Save** to apply the settings.
+4. **Test Your Setup:** Launch your store and place a live test order using your card, Google Pay, or Apple Pay.
+5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature.
 
 {% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
 {% endhint %}
 
-If you do not already have a CloudWaitress account, please visit [www.cloudwaitress.com](https://www.cloudwaitress.com) and press the [Sign Up](https://www.cloudwaitress.com/signup/) button on the top right.
+### Don't Have a CloudWaitress Account?
+
+Visit [www.cloudwaitress.com](https://www.cloudwaitress.com) and click the **Sign Up** button on the top right to create your account.
 
 {% content-ref url="using-stripe-integrated.md" %}
 [using-stripe-integrated.md](using-stripe-integrated.md)
