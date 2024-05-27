@@ -1,8 +1,8 @@
 ---
 description: >-
-  Learn how to set up Stripe+ payments.  This is our recommended solution for
-  online payments due to their streamlined setup, user experience and
-  self-service options in our dashboard.
+  Learn how to setup Stripe+ payments.  This is our recommend solution for
+  online payments due to their streamlined setup, user experience and self
+  service options in our dashboard.
 ---
 
 # Setup Integrated Stripe Payments

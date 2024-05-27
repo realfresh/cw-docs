@@ -1,14 +1,14 @@
 ---
-description: How to Hide the Store Header Section in your CloudWaitress store
+description: How to Hide the Store Header Section in your CloudWaitress store.
 ---
 
-# Hide Store Header Section (image)
+# Hide Store Header Section (header image)
 
 **Date:** February 7, 2023
 
 **Author:** Christopher Timm
 
-<figure><img src="../../.gitbook/assets/Remove Header Image (1).png" alt=""><figcaption><p>Before and after example of changing the header show setting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Remove Header Image.png" alt=""><figcaption><p>Example of store before and after disabling the header image option</p></figcaption></figure>
 
 ### 1. [Go to admin.cloudwaitress.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
 
@@ -26,7 +26,7 @@ description: How to Hide the Store Header Section in your CloudWaitress store
 
 ### 5. Uncheck on
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-07 at 2.56.47 pm (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-07 at 2.56.47 pm (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Click on Save
 
@@ -38,8 +38,12 @@ description: How to Hide the Store Header Section in your CloudWaitress store
 
 ### 8. Click on Mobile
 
+See your changes in mobile.
+
 ![Step 8 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/b65b1144-6136-4743-9a5d-127923a9e09c/78d400e2-8e11-4542-b68e-bab916aecab5.png?crop=focalpoint\&fit=crop\&fp-x=0.1289\&fp-y=0.0358\&fp-z=2.9232\&w=1200)
 
 ### 9. Click on Full
+
+See your changes for desktop.
 
 ![Step 9 screenshot](https://images.tango.us/workflows/afe3c9b8-6e7e-49f4-95c6-a31ea1e9e85d/steps/c30f02af-fe31-4b6c-bf65-1928bffe2ddd/55695add-3046-4f9d-b103-b0981982f95f.png?crop=focalpoint\&fit=crop\&fp-x=0.1704\&fp-y=0.0358\&fp-z=2.9232\&w=1200)
