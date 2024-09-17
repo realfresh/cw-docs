@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn about what's included with our reseller platform, our prices,
-  requirements and setup process
+  Learn about our reseller platform's features, pricing, prerequisites, and
+  setup process.
 ---
 
 # Overview
@@ -24,7 +24,7 @@ All our resellers can attest to the level of commitment we put into supporting t
 
 ### Access To All Platform Updates
 
-Every update and fix that we release will be automatically added to your configuration and sites so you will always have the most up to date system.
+Every update and fix that we release will be automatically added to your configuration and sites ensuring that you always have the most up to date system.
 
 ### Personalized System Customizations
 
