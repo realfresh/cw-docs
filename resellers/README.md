@@ -1,11 +1,13 @@
 ---
 description: >-
-  The CloudWaitress reseller account is intended for businesses which want to
+  The CloudWaitress reseller account is designed for businesses which want to
   re-sell our online ordering system to their customers under their own brand
-  name and at their own prices.
+  name and at their own rates.
 ---
 
 # Resellers
+
+
 
 {% content-ref url="overview.md" %}
 [overview.md](overview.md)
