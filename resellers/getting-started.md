@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn how to get started and work with our reseller platform. Learn how to set
-  up new accounts and manage your restaurants
+  Learn how to get started and use our reseller platform. Learn how to create
+  new accounts and manage your restaurants
 ---
 
 # Getting Started
@@ -46,6 +46,4 @@ When we set up your reseller platform, we would have either enabled or disabled 
 {% hint style="info" %}
 You can use your reseller password in the e-mail confirmation code field to bypass the verification process
 {% endhint %}
-
-
 
