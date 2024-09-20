@@ -1,10 +1,12 @@
 ---
 description: >-
-  This feature forces users to select a service before seeing a menu.  Users
-  cannot proceed before making a service selection.
+  This feature requires users to select a service before viewing the menu. 
+  Users cannot proceed without first selecting a service.
 ---
 
 # Make Service Pop-Up Required
+
+
 
 ![Example of the feature when activated](<../../.gitbook/assets/image (1) (1) (1).png>)
 
