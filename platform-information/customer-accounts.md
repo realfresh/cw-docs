@@ -1,12 +1,12 @@
 ---
 description: >-
-  Learn about the different types of customer accounts available and how they
-  work within the platform
+  Learn about the many types of customer accounts available and how they work
+  within the platform
 ---
 
 # Customer Accounts
 
-Customers include people who have placed an order at your online store or signed up for an account. From the restaurant perspective, it's about being able to track and understand your customers. For customers, having an account means their information is saved permanently across devices. This includes delivery details, customer info and past orders. This information will be used to pre-fill as many steps of their ordering process for a smoother repeat purchase experience.
+Customers include people who have placed an order at your online store or created an account. From the restaurant perspective, it's about being able to track and understand your customers. For customers, having an account means their information is saved permanently across devices. This includes delivery data, customer information and past orders. This information will be used to pre-fill as many steps of their ordering process, resulting in a more seamless repeat purchase experience.
 
 ## Types Of Customers
 
@@ -21,14 +21,15 @@ A logged in customer is anyone who has used the login / sign up button to create
 Customers create accounts using:
 
 * E-Mail
-* Facebook 
+* Facebook&#x20;
 * Google
 
 ## Guides
 
-{% page-ref page="../how-to-guides/setup-facebook-login.md" %}
+{% content-ref url="../how-to-guides/setup-facebook-login.md" %}
+[setup-facebook-login.md](../how-to-guides/setup-facebook-login.md)
+{% endcontent-ref %}
 
 ## Caveats & Known Issues
 
 * Google and Facebook log in cannot be used on a mobile app as they have disabled it from being used in such a medium.
-
