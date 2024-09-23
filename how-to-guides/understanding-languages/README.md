@@ -1,6 +1,6 @@
 ---
 description: >-
-  More information on using and customising the language settings inside of
+  More information on how to use and customise the language settings inside of
   CloudWaitress.
 ---
 
