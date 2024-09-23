@@ -7,6 +7,8 @@ description: >-
 
 # Promoting Your Store
 
+
+
 {% hint style="info" %}
 Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.
 {% endhint %}
@@ -17,14 +19,14 @@ Initially, your customers will not be aware of your new online ordering system. 
 
 * Handing out cards or flyers when customers make in-store purchases
 * Putting up a board or sign on your store window
-* Inform customers who call in that they can now order online. 
+* Inform customers who call in that they can now order online.&#x20;
 * Add a link from your website to your ordering page
 * Posting the ordering link on your social media channels
 * Add the ordering link to your in-store receipts
 
 ## Paid Advertising
 
-You can consider paying for Facebook or Google ads. Both of these are avenues to generate new customers. We highly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with.
+You can consider paying for Facebook or Google ads. Both of these are ways to create new customers. We strongly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with.
 
 ## Create A Google Places Listing
 
@@ -42,11 +44,11 @@ By default, your online store can be found on a sub-domain of "cloudwaitress.com
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
-Once you have purchased your own domain name, visit "Settings &gt; Website &gt; Domains &gt; Custom Domain" in your restaurant dashboard to configure it.
+Once you have purchased your own domain name, visit "Settings > Website > Domains > Custom Domain" in your restaurant dashboard to configure it.
 
 ### Basic SEO Settings
 
-Under the "Settings &gt; Website &gt; SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
+Under the "Settings > Website > SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
 
 Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
 
@@ -63,4 +65,3 @@ We have created a few helpful guides for restaurant marketing on our blog. We su
 * [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
 * [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
 * [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
-
