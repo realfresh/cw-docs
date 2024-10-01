@@ -1,7 +1,7 @@
 ---
 description: >-
-  Learn how to modify your subscription, add a payment method and manage your
-  account billing
+  Learn how to update your subscription, add a payment method and manage your
+  account billing.
 ---
 
 # Your Subscription & Billing
@@ -13,7 +13,7 @@ description: >-
 3. In the popup, select your subscription plan and press "Edit Subscription"
 4. Choose your plan from the drop down and press "Update Subscription"
 
-\|\| You will need to add a payment method before switching to a paid plan
+|| You will need to add a payment method before switching to a paid plan
 
 ## Add A Payment Method
 
@@ -42,4 +42,3 @@ If your account is cancelled, add a valid payment method to re-active your subsc
 ## Refunds
 
 Refunds will only be provided if our platform fails to meet its stated role when being used. Please contact us to discuss this.
-

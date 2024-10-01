@@ -1,7 +1,7 @@
 ---
 description: >-
-  Once the orders begin coming in, you need to be ready to fulfill them. As
-  such, it's important that understand the order management workflow for
+  Once the orders start coming in, you need to be prepared to fulfill them. As
+  such, it's important that you understand the order management workflow for
   everything to operate smoothly.
 ---
 
@@ -21,13 +21,13 @@ Visit your restaurant dashboard and navigate to the orders page. The interface u
 
 There are several key features of the order management interfaces:
 
-* You can easily see whether an order is a pickup, delivery or dine-in by the icon on the left. 
+* You can easily see whether an order is a pickup, delivery or dine-in by the icon on the left.&#x20;
 * The colour of the icon is a representation of the order's current status.
 * You can click an order to view the details of it and make updates
 
 ### **Board View**
 
-![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1l3lo9y.png)
+![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1l3lo9y.png)
 
 The board view is fantastic for actually managing orders in real-time. Orders flow from left to right along the different status columns.
 
@@ -35,7 +35,7 @@ In the board view, the **due** time is the time when the customer will be coming
 
 ### **List View**
 
-![List view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_11088vc.png)
+![List view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_11088vc.png)
 
 The list view provides you with an overview of your latest orders 10, 25, 50 or 100 orders. This view is perfect for filtering through orders and searching for specific ones. It is not well suited to actively managing orders.
 
@@ -43,7 +43,7 @@ The list view provides you with an overview of your latest orders 10, 25, 50 or 
 
 Once you select an order, you will see a popup showing you the details of your order.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_8eby9d.png)
+![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_8eby9d.png)
 
 Here you are able to do the following functions
 
@@ -56,13 +56,13 @@ Here you are able to do the following functions
 To actively manage orders, use the board view and follow the process below.
 
 1. Confirm or cancel any new orders received in the **Un-Confirmed** column.
-2. Orders in the **Confirmed \(Due Soon\)** column are due in the next 2 orders. Simply prepare the orders from the top to bottom to meet the time they are due
-3. Orders in the **Confirmed \(Up-Coming\)** section are due any time after 2 hours. You can keep an eye on what's upcoming with this.
+2. Orders in the **Confirmed (Due Soon)** column are due in the next 2 orders. Simply prepare the orders from the top to bottom to meet the time they are due
+3. Orders in the **Confirmed (Up-Coming)** section are due any time after 2 hours. You can keep an eye on what's upcoming with this.
 4. When the order has been prepared, move it to the **Ready** column for customer or driver collection.
 5. If it is a delivery, move it to the **On Route** column once the driver has taken it.
 6. Finally, mark orders as complete when the customer collects it or the food has been delivered.
 
-\|\| If you are unable to prepare an order by the due time, you increase the due time manually. Click an order to view the details. Using the "Modify Est. Ready Time" select bar, add the extra time required to prepare the order. This way your customers are aware of any delays.
+|| If you are unable to prepare an order by the due time, you increase the due time manually. Click an order to view the details. Using the "Modify Est. Ready Time" select bar, add the extra time required to prepare the order. This way your customers are aware of any delays.
 
 ### Order Statuses
 
@@ -71,7 +71,7 @@ There are 6 different order statuses as indicated by the columns on the order ma
 * Un-confirmed - new orders that are not accepted yet
 * Confirmed - orders that you have accepted and will fulfil
 * Ready - prepared orders ready for customer or driver collection
-* On Route - orders currently with the delivery driver \(delivery only\)
+* On Route - orders currently with the delivery driver (delivery only)
 * Complete - orders that have been completed fulfilled
 * Cancelled - orders that will not be fulfilled
 
@@ -97,11 +97,11 @@ If you did not, you will need to manually enable them from your web browser sett
 
 ### E-Mail Notifications
 
-You can configure up to 3 email addresses to receive notifications on. Simply visit "Settings &gt; E-mail Notifications" and configure the settings there. E-mail notifications will also include a PDF copy of the order receipt.
+You can configure up to 3 email addresses to receive notifications on. Simply visit "Settings > E-mail Notifications" and configure the settings there. E-mail notifications will also include a PDF copy of the order receipt.
 
 ### Audio Notifications
 
-Audio notifications can be configured at "Settings &gt; Audio Notifications". One useful aspect to this is you can configure a sound to play until someone has tapped / clicked the screen. This is helpful to get someones attention that a new order has come through.
+Audio notifications can be configured at "Settings > Audio Notifications". One useful aspect to this is you can configure a sound to play until someone has tapped / clicked the screen. This is helpful to get someones attention that a new order has come through.
 
 ### Automated Printing
 
@@ -116,4 +116,3 @@ Implementing an online ordering system if you have never done so before requires
 Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or cancelled.
 
 This will notify your customer respectively. You can then pencil this booking into your calendar if needed.
-
