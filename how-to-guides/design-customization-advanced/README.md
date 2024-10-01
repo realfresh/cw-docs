@@ -1,8 +1,8 @@
 ---
 description: >-
-  Additional guides explaining more detailed customization options within the
+  Additional guides explaining more in-depth customization options within the
   CloudWaitress platform.
 ---
 
-# Advanced Customization
+# Design Customization - Advanced
 
