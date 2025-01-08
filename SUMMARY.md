@@ -54,6 +54,7 @@
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
   * [Bump Screen Technology](how-to-guides/bump-screen-technology.md)
   * [Pause Ordering Feature](how-to-guides/pause-ordering-feature.md)
+  * [Order Acknowledgement Feature](how-to-guides/order-acknowledgement-feature.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
