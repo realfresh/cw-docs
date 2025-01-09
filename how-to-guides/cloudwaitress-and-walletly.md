@@ -4,13 +4,13 @@ description: Enhance Customer Loyalty with Cloudwaitress and Walletly
 
 # Cloudwaitress and Walletly
 
-## <mark style="color:purple;">Step 01: Online Order</mark>&#x20;
+## <mark style="color:red;">Step 01: Online Order</mark>&#x20;
 
 Go to your website
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.31.28 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 02: Place the test order</mark>&#x20;
+## <mark style="color:red;">Step 02: Place the test order</mark>&#x20;
 
 When you visit the CW store website, you have two options to place your order: either proceed as a guest, or sign up as a customer. If you choose to place an order as a guest, you won't need to create an account on the website. However, signing up as a customer allows you to save your personal information, payment details, and order history for future use.\
 \
@@ -20,7 +20,7 @@ To ensure your order is successful, make sure your order amount exceeds $100 and
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 10.45.34 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 03: Complete the test order</mark>
+## <mark style="color:red;">Step 03: Complete the test order</mark>
 
 After you have placed your order on the CW store website, you will need to log in to your account on the CW website to ensure that your order is complete. To do this, please follow the instructions below:
 
@@ -33,26 +33,26 @@ By logging into your CW account and verifying your order details, you can ensure
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 10.57.39 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 04: Login in Wallelty</mark>
+## <mark style="color:red;">Step 04: Login in Walletly</mark>
 
-After you have placed your order and verified its completion on the CW wesite, you may want to check your Wallety account to ensure that your payment and transaction information is up to date) To log in to your Wallety account, please follow these instructions 
+After you have placed your order and verified its completion on the CW wesite, you may want to check your Walletly account to ensure that your payment and transaction information is up to date) To log in to your Walletly account, please follow these instructions 
 
 1\) Go to the followingwebsite:  [https://walletly.xyz/](https://walletly.xyz/)\
 2\) Enter your loin credentials : Username & password
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.08.24 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 05: Verify Transactions</mark>
+## <mark style="color:red;">Step 05: Verify Transactions</mark>
 
-It is important to note that multiple accounts can be connected to one Wallety account. Therefore, when you log in to your Wallety account, make sure that you have selected the appropriate account.
+It is important to note that multiple accounts can be connected to one Walletly account. Therefore, when you log in to your Walletly account, make sure that you have selected the appropriate account.
 
-Once you have successfully logged in to your Wallety account and ensured that the correct account is selected, navigate to the "Transactions" section to review any recent transactions related to your CW order. Here, you can check that your payment was processed correctly, and that the transaction details are accurate and up to date.
+Once you have successfully logged in to your Walletly account and ensured that the correct account is selected, navigate to the "Transactions" section to review any recent transactions related to your CW order. Here, you can check that your payment was processed correctly, and that the transaction details are accurate and up to date.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.13.03 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 06: Verify Points in Cloud Waitress</mark>
+## <mark style="color:red;">Step 06: Verify Points in Cloud Waitress</mark>
 
-After your transaction has been completed and your payment has been processed, you can verify the points earned in Cloud Waitress (CW). There are two ways to do this:
+After your transaction has been completed and your payment has been processed, you can verify the points earned in CloudWaitress (CW). There are two ways to do this:
 
 ### Option 1: Log in to Widget
 
@@ -68,7 +68,7 @@ Either of these methods will allow you to verify that your points have been corr
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.22.51 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Step 07: Redeem Coupon</mark>
+## <mark style="color:red;">Step 07: Redeem Coupon</mark>
 
 If you have earned points in Cloud Waitress (CW) and would like to use them, you can do so by following these instructions:
 
