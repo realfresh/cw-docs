@@ -111,3 +111,11 @@ Check your internet connection or try again shortly
 
 Please ensure that Android detects your printer. Try restarting your device. Try printing to your printer from other programs on your PC such as your browser.
 
+
+
+{% hint style="info" %}
+Get started for free at [www.cloudwaitress.com/signup](https://www.cloudwaitress.com/signup/)
+{% endhint %}
+
+
+
