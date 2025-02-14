@@ -48,7 +48,7 @@
   * [Understanding Languages](how-to-guides/understanding-languages/README.md)
     * [How users can change languages on frontend](how-to-guides/understanding-languages/how-users-can-change-languages-on-frontend.md)
   * [Understanding Printing](how-to-guides/understanding-printing/README.md)
-    * [Setup Printing For Android | CloudWaitress Printer Se](how-to-guides/understanding-printing/setup-printing-for-android.md)
+    * [How to Set Up a Printer on Android](how-to-guides/understanding-printing/setup-printing-for-android.md)
     * [Printing - Windows Network Printing](how-to-guides/understanding-printing/printing-windows-network-printing.md)
     * [Printing - Windows Shared Printing](how-to-guides/understanding-printing/printing-windows-shared-printing.md)
     * [Printing - API Key](how-to-guides/understanding-printing/printing-api-key.md)
