@@ -40,7 +40,7 @@ In the exported CSV file, you'll find the following colums:
 
 Meanwhile, you don't need to enter anything in the Menu ID, Category ID, or Dish ID. You may delete the details in these columns.&#x20;
 
-### Exporting
+### Importing
 
 Let's see how importing works. Suppose someone accidentally deletes a menu. You can retrieve it by importing the CSV file you exported earlier.
 
