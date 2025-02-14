@@ -28,7 +28,7 @@ For step by step instructions by printing method.  Please use the following inst
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
+* Latest version of PushPrinter that can be downloaded [here](https://pushprinter.com/#windows)
 
 ## Setup Process
 
@@ -51,7 +51,7 @@ Other times you may select "Preferences" at the bottom of the printer properties
 
 Refer to the image below to see what this may look like.
 
-![Printer paper size settings](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1vcnqy8.png)
+![Printer paper size settings](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1vcnqy8.png)
 
 Take note of the paper sizes available as you will likely need to try a few to get it working flawlessly
 
@@ -63,7 +63,7 @@ Take note of the paper sizes available as you will likely need to try a few to g
 4. We highly recommend starting with a font size of "18" and a paper margin of "0"
 5. Create the print configuration. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy your API key soon
 
-![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_bnxer6.png)
+![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_bnxer6.png)
 
 || The paper sizes entered in your printer configuration must match your Windows paper size settings as set in the printer driver options. If the printout is incorrect or skewed, you will need to test out the other sizes from largest to smallest. When changing the sizes in the printer configuration make sure to change it in the Windows printer driver settings.
 
@@ -119,3 +119,10 @@ You need to find the correct driver for your printer provided its available for 
 #### Printing not working even though everything is set up correctly
 
 Please ensure that Windows detects your printer. Try restarting your printer or PC. Try printing to your printer from other programs on your PC such as your browser.
+
+
+
+{% hint style="info" %}
+Get started for free at [www.cloudwaitress.com/signup](https://www.cloudwaitress.com/signup/)
+{% endhint %}
+
