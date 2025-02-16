@@ -57,7 +57,7 @@
     * [How to copy the printer API key](how-to-guides/how-to-copy-the-printer-api-key.md)
     * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Set Maximum Orders Per Time Interval](how-to-guides/set-maximum-orders-per-time-interval.md)
-  * [Export/Import Menu Feature](how-to-guides/export-import-menu-feature.md)
+  * [How to Create & Import a Menu Using a Spreadsheet](how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
