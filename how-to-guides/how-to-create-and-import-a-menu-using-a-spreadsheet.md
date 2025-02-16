@@ -1,12 +1,14 @@
+---
+description: >-
+  You can now create a menu in a spreadsheet and will be able to import it into
+  your online ordering site.
+---
+
 # How to Create & Import a Menu Using a Spreadsheet
 
 Here's a guide on how this feature works&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=JbWCiMX4o7I" %}
-
-Steps\
-\
-&#x20;1: First, log in to your dashboard. Once you're logged in, navigate to the 'Staff Account' section.
 
 ### Steps:
 
