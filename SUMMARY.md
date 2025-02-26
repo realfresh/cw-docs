@@ -24,6 +24,7 @@
   * [Adding Delivery Zones](how-to-guides/adding-delivery-zones.md)
   * [Bump Screen Technology](how-to-guides/bump-screen-technology.md)
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
+  * [Creating Conditional Fees](how-to-guides/creating-conditional-fees.md)
   * [Design Customization - Advanced](how-to-guides/design-customization-advanced/README.md)
     * [Hide Store Header Section (image)](how-to-guides/design-customization-advanced/hide-store-header-section-image.md)
   * [Examples of Dates & Times and their corresponding formats](how-to-guides/examples-of-dates-and-times-and-their-corresponding-formats.md)

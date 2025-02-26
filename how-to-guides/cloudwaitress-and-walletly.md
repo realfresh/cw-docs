@@ -26,7 +26,7 @@ After you have placed your order on the CW store website, you will need to log i
 
 1\) Go to the your website\
 2\) Enter your login credentials. \
-3\) Once you have successfully logged in, navigate to the "Orders" section of your account     dashboard. Here, you should be able to see your recent order, including details such as the items ordered, order status, and expected delivery date.\
+3\) Once you have successfully logged in, navigate to the "Orders" section of your account dashboard. Here, you should be able to see your recent order, including details such as the items ordered, order status, and expected delivery date.\
 4\) Verify that your order is complete and accurate. If you notice any issues with your order, such as missing items or incorrect delivery information, please contact CW customer support for assistance.
 
 By logging into your CW account and verifying your order details, you can ensure that your order is processed correctly and delivered to you in a timely manner.&#x20;
@@ -35,9 +35,9 @@ By logging into your CW account and verifying your order details, you can ensure
 
 ## <mark style="color:red;">Step 04: Login in Walletly</mark>
 
-After you have placed your order and verified its completion on the CW wesite, you may want to check your Walletly account to ensure that your payment and transaction information is up to date) To log in to your Walletly account, please follow these instructions 
+After you have placed your order and verified its completion on the CW website, you may want to check your Walletly account to ensure that your payment and transaction information is up to date. To log in to your Walletly account, please follow these instructions 
 
-1\) Go to the followingwebsite:  [https://walletly.xyz/](https://walletly.xyz/)\
+1\) Go to the followingwebsite: [<mark style="color:blue;">https://www.walletly.ai/</mark>](https://www.walletly.ai/)\
 2\) Enter your loin credentials : Username & password
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.08.24 AM.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -82,3 +82,8 @@ Note that the coupon code can only be used once and must be redeemed within the 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.27.58 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 \
+
+
+{% hint style="info" %}
+Note: An email notification is sent whenever a customer earns points or qualifies for any rewards.&#x20;
+{% endhint %}
