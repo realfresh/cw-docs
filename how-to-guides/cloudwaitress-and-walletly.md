@@ -33,7 +33,7 @@ By logging into your CW account and verifying your order details, you can ensure
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 10.57.39 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## <mark style="color:red;">Step 04: Login in Walletly</mark>
+## <mark style="color:red;">Step 04: Login in to Walletly</mark>
 
 After you have placed your order and verified its completion on the CW website, you may want to check your Walletly account to ensure that your payment and transaction information is up to date. To log in to your Walletly account, please follow these instructions 
 

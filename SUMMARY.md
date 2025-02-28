@@ -60,6 +60,7 @@
   * [Set Maximum Orders Per Time Interval](how-to-guides/set-maximum-orders-per-time-interval.md)
   * [How to Create & Import a Menu Using a Spreadsheet](how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet.md)
   * [Export/Import Menu Feature](how-to-guides/export-import-menu-feature.md)
+  * [How To Integrate Walletly with CloudWaitress](how-to-guides/how-to-integrate-walletly-with-cloudwaitress.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
