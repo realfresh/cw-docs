@@ -9,10 +9,11 @@ description: >-
 \
 Here's a video on how to set up this feature.
 
-{% embed url="https://drive.google.com/file/d/1acSdQqq5sI-1NReZ7hRWgI4tTjc79wta/view" fullWidth="true" %}
+{% embed url="https://drive.google.com/file/d/1BkArIk8GcJeGx__trRNgmix7bNOQWAJ5/view?usp=sharing" %}
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
 {% endhint %}
+

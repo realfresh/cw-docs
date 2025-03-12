@@ -22,6 +22,7 @@
     * [Set up Bancontact Payments](how-to-guides/accepting-payments/set-up-bancontact-payments.md)
   * [Adding Closed Hours](how-to-guides/adding-closed-hours.md)
   * [Adding Delivery Zones](how-to-guides/adding-delivery-zones.md)
+  * [Adding Staff Account](how-to-guides/adding-staff-account.md)
   * [Bump Screen Technology](how-to-guides/bump-screen-technology.md)
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
   * [Creating Conditional Fees](how-to-guides/creating-conditional-fees.md)

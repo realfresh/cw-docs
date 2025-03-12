@@ -7,8 +7,6 @@ description: >-
 
 # Bump Screen Technology
 
-
-
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 5.40.03 AM.png" alt=""><figcaption></figcaption></figure>
 
 On the Admin Dashboard, click on the Order Icon > Bump Screen\
@@ -36,4 +34,12 @@ Our Bump Screen technology is expertly designed to transform chaotic kitchen env
 
 Seamlessly integrate with our order aggregation feature, syncing orders from third-party platforms like [UberEats](https://ubereats.com/), DoorDash, Grubhub, and more. Available in Australia, New Zealand, Canada, the USA, and other select countries, this feature ensures that all your orders are centralised for maximum efficiency.
 
-\
+#### Here's a video on how the Bump Screen works
+
+{% embed url="https://drive.google.com/file/d/1ZqgnfIw_TynnVoAZ1HP2tQOrWI_wup-R/view?usp=sharing" %}
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature
+{% endhint %}
