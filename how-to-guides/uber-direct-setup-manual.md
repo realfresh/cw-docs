@@ -8,6 +8,8 @@ To enable Uber deliveries, the restaurant should have all the following:
 * Restaurant from the following countries:
   * Australia
   * New Zealand
+  * Canada&#x20;
+  * USA
 
 ## Enabling Uber
 
@@ -63,7 +65,7 @@ Once a customer checkout an order, the Uber (if set as the Default Delivery Prov
 
 **Credit Card** - if enabled and with Stripe Connect account ID provided
 
-**Apple Pay** | **Google Pay (Stripe**) - if enabled
+**Apple Pay** | **Google Pay (Stripe**)
 
 
 
@@ -103,3 +105,10 @@ It is expected that the driver is still on route to the restaurant or is waiting
 
 If the Order is cancelled (initiated by the customer or the store), the Uber delivery will be automatically cancelled as well
 
+
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+{% endhint %}
