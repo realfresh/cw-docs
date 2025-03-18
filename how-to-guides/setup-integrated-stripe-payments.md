@@ -36,6 +36,22 @@ description: >-
 4. **Test Your Setup:** Launch your store and place a live test order using your card, Google Pay, or Apple Pay.
 5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature.
 
+### You can also activate the Stripe + Payments by connecting directly to Stripe
+
+### Steps:
+
+1. **Login:** Access your admin dashboard at [admin.cloudwaitress.com](https://admin.cloudwaitress.com).
+2. **Navigate to Settings:** Go to **Settings > Payments > Add Payment Method > Stripe > Add Method**.
+3. **Connect to Stripe:** Toggle to **Enable > Click Connect to Stripe .** This will route you to Stripe. Fill out the Stripe registration form and once complete, SC Account Id will automatically populate.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-18 at 10.39.20 AM.png" alt=""><figcaption></figcaption></figure>
+
+4. Click  on Advanced Settings to complete the set up. Add sk\_live and pk\_live to the Stripe Secret Key and Stripe Publishable Key respectively > Save.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-18 at 10.42.04 AM.png" alt=""><figcaption></figcaption></figure>
+
+
+
 {% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
 {% endhint %}
