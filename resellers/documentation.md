@@ -48,7 +48,7 @@ description: Learn how to manage your white-labelled support documentation for y
 13. After this, your forked documentation repository will be synced over to GitBook.
 14. At this point, you can follow the editing steps below to make changes.
 
-##
+
 
 ## Editing Your Support Documentation
 
