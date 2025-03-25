@@ -1,6 +1,6 @@
 ---
 description: >-
-  For August 2020, the UK government have released a discount scheme for
+  For August 2020, the UK government has announced a discount scheme for
   restaurants called 'Eat Out to Help Out".  This shows how to set-up for your
   restaurant.
 ---

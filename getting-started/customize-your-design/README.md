@@ -21,7 +21,7 @@ Design video tutorial
 
 To get a great looking site quickly, just use our base theme, add your logo and add a nice header background image. It also helps to have a nice header title and subtitle.
 
-|| We recommend using a PC or tablet to design your site for the best experience
+We recommend using a PC or tablet to design your site for the best experience
 
 ## Recommend Images Dimensions
 

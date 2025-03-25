@@ -33,3 +33,9 @@ description: Step through guide for the new email notification feature for delay
 ### 7. If you choose to 'Send Email', click the button and it will send an email notification as per the below example.
 
 ![Step 7 screenshot](https://images.tango.us/workflows/2fe2c70e-3b35-4563-b397-de3f3147ae04/steps/0c6c8f94-58b2-4f27-a152-c0bc1f8516ce/8ad0487b-fa36-4f96-b449-85585afed3bf.png?crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200)
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance setting up this feature.
+{% endhint %}
