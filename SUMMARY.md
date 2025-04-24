@@ -64,6 +64,7 @@
   * [Export/Import Menu Feature](how-to-guides/export-import-menu-feature.md)
   * [How To Integrate Walletly with CloudWaitress](how-to-guides/how-to-integrate-walletly-with-cloudwaitress.md)
   * [How to Enable Pre-Orders in CloudWaitress](how-to-guides/how-to-enable-pre-orders-in-cloudwaitress.md)
+  * [Managing the Order Dashboard](how-to-guides/managing-the-order-dashboard.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
