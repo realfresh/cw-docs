@@ -42,7 +42,7 @@ description: >-
 
 1. **Login:** Access your admin dashboard at [admin.cloudwaitress.com](https://admin.cloudwaitress.com).
 2. **Navigate to Settings:** Go to **Settings > Payments > Add Payment Method > Stripe > Add Method**.
-3. **Connect to Stripe:** Toggle to **Enable > Click Connect to Stripe .** This will route you to Stripe. Fill out the Stripe registration form and once complete, SC Account Id will automatically populate.&#x20;
+3. **Connect to Stripe:** Toggle to **Enable > Click Connect to Stripe .** This will route you to Stripe. Fill out the Stripe registration form and once completed, SC Account Id will automatically populate. Make sure not to delete the SC Account ID.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-18 at 10.39.20 AM.png" alt=""><figcaption></figcaption></figure>
 
