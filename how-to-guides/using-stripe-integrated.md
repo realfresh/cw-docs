@@ -26,7 +26,7 @@ If you cannot see this option in your dashboard, please see [this page](setup-in
 
 ![](<../.gitbook/assets/image (10) (1).png>)
 
-* For Payouts, just click the payout button at the upper right pane of the page.  You can also review your payouts in your stripe dashboard at [dashboard.stripe.com](https://dashboard.stripe.com)
+* For Payouts, just click the payout button at the upper right pane of the page.  If you're looking for a particular payout on a certain period of time, you can use the "Filters" function and use "Date Range" to input the dates. You can also review your payouts in your stripe dashboard at [dashboard.stripe.com](https://dashboard.stripe.com)
 
 ![](<../.gitbook/assets/image (12).png>)
 
