@@ -20,7 +20,7 @@
     * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)
     * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
     * [Set up Bancontact Payments](how-to-guides/accepting-payments/set-up-bancontact-payments.md)
-  * [Adding Closed Hours](how-to-guides/adding-closed-hours.md)
+  * [How to Temporarily Pause Online Ordering](how-to-guides/how-to-temporarily-pause-online-ordering.md)
   * [Adding Delivery Zones](how-to-guides/adding-delivery-zones.md)
   * [Adding Staff Account](how-to-guides/adding-staff-account.md)
   * [Bump Screen Technology](how-to-guides/bump-screen-technology/README.md)
