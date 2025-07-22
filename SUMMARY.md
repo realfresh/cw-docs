@@ -65,6 +65,7 @@
     * [Setup Split Printing](how-to-guides/understanding-printing/setup-split-printing.md)
     * [How to copy the printer API key](how-to-guides/how-to-copy-the-printer-api-key.md)
     * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
+  * [How to Create and Manage Your Menus](how-to-guides/how-to-create-and-manage-your-menus.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
