@@ -16,7 +16,9 @@ A cookie consent banner is a notice that is displayed on websites and other apps
 \
 To set up **Cookie Policy**, go to Settings > System > Privacy Policy > Save.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.14.15 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.14.15 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 A **Cookie Policy Template** is available if you opt to use it.&#x20;
 
