@@ -70,6 +70,8 @@
   * [Set up Terms & Conditions](how-to-guides/set-up-terms-and-conditions.md)
   * [Set up Privacy Policy](how-to-guides/set-up-privacy-policy.md)
   * [Set up Cookie Policy](how-to-guides/set-up-cookie-policy.md)
+  * [Adding Option Sets](how-to-guides/adding-option-sets.md)
+  * [Using Primary Option Set](how-to-guides/using-primary-option-set.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
