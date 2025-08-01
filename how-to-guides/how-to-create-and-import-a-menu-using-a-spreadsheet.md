@@ -45,4 +45,20 @@ Here's a guide on how this feature works&#x20;
     * Once the import is successful, the dishes will be created based on the information you entered in the spreadsheet.\
 
 
-    <mark style="color:red;">Note:</mark> Option sets and tags are not included in the CSV file. After completing the export and import process, you’ll need to manually create the option sets and link them to each dish.\
+    <mark style="color:red;">Note:</mark> Option sets and tags are not included in the CSV file. After completing the export and import process, you’ll need to manually create the option sets and link them to each dish.
+
+
+
+### Related Articles
+
+1. **Public Holiday Surcharge** - [https://support.cloudwaitress.com/platform-information/special-features/public-holiday-surcharge](https://support.cloudwaitress.com/platform-information/special-features/public-holiday-surcharge)
+2. **Managing Orders & Bookings** - [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
+3. How to Create & Manage Your Menus - [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
+
+
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance maaging this feature.
+{% endhint %}

@@ -50,6 +50,14 @@ Here’s how to set up pre-orders and improve convenience for your customers.\
 
 
 
+### Related Articles
+
+1. **Set Maximum Orders Per Time Interval** - [https://support.cloudwaitress.com/how-to-guides/set-maximum-orders-per-time-interval](https://support.cloudwaitress.com/how-to-guides/set-maximum-orders-per-time-interval)
+2. **Managing Orders & Bookings** - [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
+3. **Configure Your Services (Order Timing)** - [https://support.cloudwaitress.com/getting-started/configure-your-services](https://support.cloudwaitress.com/getting-started/configure-your-services)
+
+
+
 {% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
 {% endhint %}

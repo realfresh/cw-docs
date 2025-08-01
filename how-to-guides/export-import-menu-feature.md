@@ -17,7 +17,7 @@ Here's a video on how this feature works:
 
 * It's important to ensure that the 'Import/Export' feature is enabled when creating a staff account. If this feature isn't toggled on, the store won’t have access to import or export menus.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-02-14 at 1.36.00 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-02-14 at 1.36.00 PM.png" alt="" width="348"><figcaption></figcaption></figure>
 
 2. Head over to ‘Restaurants’ then ‘Manage’ and click on 'Menus'. New buttons for CSV import and export will be visible. These let you import or export your menu manually in CSV format.
 
@@ -45,11 +45,22 @@ Let’s see how importing works. Suppose someone accidentally deletes a menu. Yo
 
 * After typing "import", select the CSV file you want to retrieve, and within a few seconds, the menu will be uploaded back into the system
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Please also note that the option sets of the menu you exported will not be included when you import the file. You will need to manually recreate the option sets and item tags in your menu.
 {% endhint %}
 
 
 
+### Related Articles
+
+1. **Setup Your Menus** - [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus)
+2. **How to Create & Import a Menu Using a Spreadsheet** - [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
+3. **How to Create and Manage Your Menus** -[https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
 
 
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+{% endhint %}

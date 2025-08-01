@@ -19,7 +19,23 @@ Here's a quick video on how to enable this feature
 4. Set the maximum number of orders for each time interval. Leave the field blank or set to zero if you want to allow unlimited orders per time slot/ interval. Don't forget save changes. \
 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Note:  Make sure to enable the 'Wait Time & Auto Statuses' setting to ensure orders are processed automatically based on the limits you've set\
 
+{% endhint %}
+
+
+
+### Related Articles
+
+1. **How to Enable Pre‑Orders in CloudWaitress** – [https://support.cloudwaitress.com/how-to-guides/how-to-enable-pre-orders-in-cloudwaitress](https://support.cloudwaitress.com/how-to-guides/how-to-enable-pre-orders-in-cloudwaitress)
+2. **Managing Orders & Bookings** – [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
+3. **Configure Your Services (Order Timing settings)** – [https://support.cloudwaitress.com/getting-started/configure-your-services](https://support.cloudwaitress.com/getting-started/configure-your-services)
+
+
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
 {% endhint %}

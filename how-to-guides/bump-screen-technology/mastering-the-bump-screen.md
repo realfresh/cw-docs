@@ -52,6 +52,16 @@ With the Bump Screen, you can manage your kitchen more efficiently, reduce error
 
 
 
+### Related Articles
+
+1. **Managing Orders & Bookings** – [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings) [CloudWaitress Support](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
+2. **Understanding Printing (overview)** – [https://support.cloudwaitress.com/how-to-guides/understanding-printing](https://support.cloudwaitress.com/how-to-guides/understanding-printing)
+3. **Setup Printing for Windows** – [https://support.cloudwaitress.com/how-to-guides/understanding-printing/setup-printing-for-windows](https://support.cloudwaitress.com/how-to-guides/understanding-printing/setup-printing-for-windows)
+
+
+
+
+
 {% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
 {% endhint %}
