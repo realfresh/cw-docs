@@ -107,6 +107,16 @@ If you haven't created tags yet, go to your **Menu Tags** settings to add them.&
 Try placing a test order to confirm everything looks right.&#x20;
 {% endhint %}
 
+### Related Articles
+
+1. **How to Create and Manage Your Menus** – [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
+2. **Setup Your Menus** – [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus)
+3. **Export/Import Menu Feature** – [https://support.cloudwaitress.com/how-to-guides/export-import-menu-feature](https://support.cloudwaitress.com/how-to-guides/export-import-menu-feature)
+
+
+
+
+
 
 
 {% hint style="danger" %}

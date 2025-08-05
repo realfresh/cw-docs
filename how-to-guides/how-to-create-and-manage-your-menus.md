@@ -123,6 +123,19 @@ Go to the section and click "Rearrange". Drag and drop. Click Save.
 \
 
 
+### Related Articles
+
+1. **Setup Your Menus -** [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus) [CloudWaitress Support](https://support.cloudwaitress.com/getting-started/setup-your-menus?utm_source=chatgpt.com)
+2. **Export/Import Menu Feature** – [https://support.cloudwaitress.com/how-to-guides/export-import-menu-feature](https://support.cloudwaitress.com/how-to-guides/export-import-menu-feature)
+3. **How to Create & Import a Menu Using a Spreadsheet** – [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
+
+\
+
+
+
+
+{% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+{% endhint %}
 
 ### &#x20;
