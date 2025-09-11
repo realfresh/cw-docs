@@ -23,7 +23,11 @@ Note: If you're unsure whether OAuth 2.0 is appropriate for your project, select
 6. Select the appropriate application type for your project and enter any additional information required. Application types are described in more detail in the following sections.
 7. If this is your first time creating a client ID, you can also configure your consent screen by clicking Consent Screen. (The [following procedure](https://support.google.com/cloud/answer/6158849?hl=en#userconsent) explains how to set up the Consent screen.) You won't be prompted to configure the consent screen after you do it the first time.
 8. Click Create client ID
-9. Copy the Oauth Client ID
-10. Go to Settings > System Tab >Scroll down to Customer Account > Google Tab
+9. Add the store URL on the required fields
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-12 at 7.29.46 AM.png" alt=""><figcaption></figcaption></figure>
+
+10. Copy the Oauth Client ID
+11. Go to Settings > System Tab >Scroll down to Customer Account > Google Tab
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-13 at 4.55.59 AM.png" alt=""><figcaption></figcaption></figure>
