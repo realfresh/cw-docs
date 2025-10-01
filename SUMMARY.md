@@ -22,7 +22,7 @@
     * [Set up Bancontact Payments](how-to-guides/accepting-payments/set-up-bancontact-payments.md)
   * [Adding Delivery Zones](how-to-guides/adding-delivery-zones.md)
   * [Adding Option Sets](how-to-guides/adding-option-sets.md)
-  * [Adding Staff Account](how-to-guides/adding-staff-account.md)
+  * [Managing Staff Accounts](how-to-guides/managing-staff-accounts.md)
   * [Bump Screen Technology](how-to-guides/bump-screen-technology/README.md)
     * [Mastering the Bump Screen](how-to-guides/bump-screen-technology/mastering-the-bump-screen.md)
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
