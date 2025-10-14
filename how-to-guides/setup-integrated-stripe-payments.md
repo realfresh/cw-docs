@@ -21,7 +21,6 @@ description: >-
 | **Enabled**                    | On                          | Activates the feature                                                                               |
 | **Stripe Secret Key**          | sk\_live                    |                                                                                                     |
 | **Stripe Publishable Key**     | pk\_live                    |                                                                                                     |
-| **Stripe Version**             | Version 2                   | Only use Version 1 if requested by CloudWaitress support                                            |
 | **Currency**                   | AUD - Australian Dollar - $ | Use your local currency                                                                             |
 | **Disable E-Mail Receipt**     |                             |                                                                                                     |
 | **Enable Custom Payment Form** |                             |                                                                                                     |
