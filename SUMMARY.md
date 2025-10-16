@@ -74,6 +74,7 @@
     * [How to copy the printer API key](how-to-guides/how-to-copy-the-printer-api-key.md)
     * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Using Primary Option Set](how-to-guides/using-primary-option-set.md)
+  * [Landing Page Multi Store Selector](how-to-guides/landing-page-multi-store-selector.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
