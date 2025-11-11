@@ -39,6 +39,7 @@
   * [How To Integrate Postmates with CloudWaitress](how-to-guides/how-to-integrate-postmates-with-cloudwaitress.md)
   * [How To Integrate Walletly with CloudWaitress](how-to-guides/how-to-integrate-walletly-with-cloudwaitress.md)
   * [How To Opt-Out of Google Hosted Fonts](how-to-guides/how-to-opt-out-of-google-hosted-fonts.md)
+  * [How To Process Refund](how-to-guides/how-to-process-refund.md)
   * [How to Set Up Conditional Fees in CloudWaitress](how-to-guides/how-to-set-up-conditional-fees-in-cloudwaitress.md)
   * [How To Set Up Google Analytics Integration](how-to-guides/how-to-set-up-google-analytics-integration.md)
   * [How to Show/Hide Header Function](how-to-guides/how-to-show-hide-header-function.md)
