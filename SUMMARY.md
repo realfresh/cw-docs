@@ -77,6 +77,7 @@
     * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Using Primary Option Set](how-to-guides/using-primary-option-set.md)
   * [How To Export Orders & Customer Data](how-to-guides/how-to-export-orders-and-customer-data.md)
+  * [Make Customer Information Optional](how-to-guides/make-customer-information-optional.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
