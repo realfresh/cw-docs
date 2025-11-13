@@ -1,3 +1,9 @@
+---
+description: >-
+  We have a CSV Data Esport which you can use. It also has a Filter function to
+  only get the data you need.
+---
+
 # How To Export Orders & Customer Data
 
 ### To export the report from the system&#x20;
@@ -30,6 +36,12 @@
 1. Click the **Customer** icon instead and do the same steps
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.17.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+
+
+
 
 
 
