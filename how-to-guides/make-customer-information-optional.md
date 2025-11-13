@@ -48,6 +48,8 @@ Some or all fields may be required to process certain payment methods. Uncheckin
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.58.18 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+5. Click **Save**
+
 #### Important:&#x20;
 
 Some payment methods might not work if customer information is not provided. Customers will be prompted of what info is required to proceed with their chosen payment method.
