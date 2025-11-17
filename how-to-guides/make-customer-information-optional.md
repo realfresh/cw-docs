@@ -14,7 +14,7 @@ description: >-
 
 2. Go to **Settings**&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.36.55 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.36.55 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Go to **Services**. Choose the service where you want this feature to be applied (Pickup/ Deliveries).
 
@@ -41,7 +41,7 @@ Some or all fields may be required to process certain payment methods. Uncheckin
 
 2. Go to **Settings**&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.36.55 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.36.55 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Go to Services > Dine - ins
 4. Go to General >  **Make Customer Information Optional** > Toggle to set as optional
