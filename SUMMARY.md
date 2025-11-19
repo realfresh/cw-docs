@@ -81,6 +81,7 @@
   * [Set up Landing Page](how-to-guides/set-up-landing-page.md)
   * [Link Logo to URL or Website](how-to-guides/link-logo-to-url-or-website.md)
   * [How To Integrate PushPOS with CloudWaitress](how-to-guides/how-to-integrate-pushpos-with-cloudwaitress.md)
+  * [Use "Logged in Only" Feature](how-to-guides/use-logged-in-only-feature.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
