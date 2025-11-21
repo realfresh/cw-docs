@@ -81,8 +81,7 @@ Note that the coupon code can only be used once and must be redeemed within the 
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-06-13 at 11.27.58 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 {% hint style="info" %}
 Note: An email notification is sent whenever a customer earns points or qualifies for any rewards.&#x20;

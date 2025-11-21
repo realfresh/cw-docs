@@ -14,8 +14,7 @@ description: >-
 
 1. From your **Dashboard**, go to **Menu**.
 2. Click the specific **menu** you want to edit.&#x20;
-3. Select a **category**, the click **Create New Item**. \
-
+3. Select a **category**, the click **Create New Item**. <br>
 
 **Creating a Standard Item**
 

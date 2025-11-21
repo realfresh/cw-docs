@@ -6,8 +6,7 @@ description: >-
 
 # How to Enable Pre-Orders in CloudWaitress
 
-Here’s how to set up pre-orders and improve convenience for your customers.\
-
+Here’s how to set up pre-orders and improve convenience for your customers.<br>
 
 {% embed url="https://www.youtube.com/watch?v=RGz-Q8cdzDg" %}
 
@@ -39,8 +38,7 @@ Here’s how to set up pre-orders and improve convenience for your customers.\
 ### Step 4: Test Your Pre-Order Setup
 
 1. Visit your **Online Store** and place a test pre-order to verify that everything is working correctly.
-2. Ensure customers can select the date and time based on your pre-order settings.\
-
+2. Ensure customers can select the date and time based on your pre-order settings.<br>
 
 ### Additional Resources
 

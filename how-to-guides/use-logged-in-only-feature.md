@@ -27,8 +27,7 @@ description: >-
 
 Note: Follow the same steps in setting up all types of Promos
 
-\
-
+<br>
 
 {% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.

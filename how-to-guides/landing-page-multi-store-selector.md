@@ -42,8 +42,7 @@ It improves order accuracy, reduces confusion, and ensures customers are connect
 For additional tutorials and tips, visit our other support guides.
 
 \
-\
-
+<br>
 
 {% hint style="danger" %}
 Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.

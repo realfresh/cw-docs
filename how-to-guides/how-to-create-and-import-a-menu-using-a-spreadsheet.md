@@ -30,8 +30,7 @@ Here's a guide on how this feature works&#x20;
     * Category Name
     * Dish Name
     * Dish Type (Standard or Combo)
-    * Dish Description\
-
+    * Dish Description<br>
 
     <mark style="color:red;">Note:</mark>  You can delete the Menu ID, Category ID, and Dish ID. These can be deleted as they are not required for editing.
 
@@ -42,8 +41,7 @@ Here's a guide on how this feature works&#x20;
     \
     6\. Then Import  the updated CSV file into your ordering site by clicking the "CSV Import" button.
 
-    * Once the import is successful, the dishes will be created based on the information you entered in the spreadsheet.\
-
+    * Once the import is successful, the dishes will be created based on the information you entered in the spreadsheet.<br>
 
     <mark style="color:red;">Note:</mark> Option sets and tags are not included in the CSV file. After completing the export and import process, you’ll need to manually create the option sets and link them to each dish.
 

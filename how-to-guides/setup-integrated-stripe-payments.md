@@ -33,8 +33,7 @@ description: >-
 
 3. **Save Settings:** Press **Save** to apply the settings.
 4. **Test Your Setup:** Launch your store and place a live test order using your card, Google Pay, or Apple Pay.
-5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature.\
-
+5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature.<br>
 
 
 

@@ -5,10 +5,9 @@ description: >-
   store for end-users to access it any time.
 ---
 
-# Set up Cookie Policy
+# Setup Cookie Policy
 
-**Cookies** are files with a small amount of date that help the website to remember information about you.  These are sent to your browser from the website that you visit and are stored on your computer's hard drive.\
-
+**Cookies** are files with a small amount of date that help the website to remember information about you.  These are sent to your browser from the website that you visit and are stored on your computer's hard drive.<br>
 
 **Cookie Banner**\
 A cookie consent banner is a notice that is displayed on websites and other apps upon the user's visit. It is designed to inform the users of the use of cookies, consumer rights in regards to those cookies, and to request the user to grant consent to activate those cookies and process their personal data.

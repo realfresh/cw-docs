@@ -37,8 +37,7 @@ description: >-
 * Keep it in the Option Set field, but do not assign it as Primary.
 * Click Save, then refresh the front end to see the update.
 
-\
-
+<br>
 
 ### Related Articles
 

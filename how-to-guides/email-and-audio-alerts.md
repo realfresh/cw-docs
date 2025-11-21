@@ -56,8 +56,7 @@ Click Save to activate your audio settings.
 2. Ensure the email receipt is received at the correct addresses.
 3. Verify the alert sound triggers properly in your browser or POS setup.
 
-\
-
+<br>
 
 
 

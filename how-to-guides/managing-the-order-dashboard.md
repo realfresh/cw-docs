@@ -67,8 +67,7 @@ With the Order Dashboard, your team can deliver faster, stay better organized, a
 2. **How to Create and Manage Your Menus** – [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus) [CloudWaitress Support](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus?utm_source=chatgpt.com)
 3. **Set Maximum Orders Per Time Interval** – [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus)
 
-\
-
+<br>
 
 {% hint style="danger" %}
 **Need Help?**  Watch our video tutorials or contact support for more guidance.&#x20;

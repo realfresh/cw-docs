@@ -5,7 +5,7 @@ description: >-
   your Terms and Conditions.
 ---
 
-# Set up Terms & Conditions
+# Setup Terms & Conditions
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.42.29 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -15,8 +15,7 @@ To set up **Terms and Conditions**, go to Settings > System > Policies & Agreeme
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.12.24 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-A Terms & Conditions Template is available if you opt to use it. \
-
+A Terms & Conditions Template is available if you opt to use it. <br>
 
 
 

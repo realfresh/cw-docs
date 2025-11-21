@@ -4,7 +4,7 @@ description: >-
   end-users to access it any time.
 ---
 
-# Set up Privacy Policy
+# Setup Privacy Policy
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 12.04.49 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -19,6 +19,5 @@ A **Privacy Policy Template** is available if you opt to use it.&#x20;
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.\
-
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.<br>
 {% endhint %}

@@ -7,8 +7,7 @@ description: >-
 
 # Adding Delivery Zones
 
-Here are the steps to create a delivery zones:\
-
+Here are the steps to create a delivery zones:<br>
 
 1\. Go to Settings > Services > Deliveries > Zones > Click "Custom Google Maps"
 

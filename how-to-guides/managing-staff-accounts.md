@@ -11,8 +11,7 @@ description: >-
 
 {% embed url="https://youtu.be/HV6l_iRTSkU" %}
 
-\
-
+<br>
 
 Having a staff account is crucial for several reasons:
 
