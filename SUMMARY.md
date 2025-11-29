@@ -77,6 +77,7 @@
     * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
     * [Setup Printing Using USB Printer](how-to-guides/understanding-printing/setup-printing-using-usb-printer.md)
     * [Setup Printing Via Ethernet](how-to-guides/understanding-printing/setup-printing-via-ethernet.md)
+    * [Setup Printing Using Bluetooth Printer](how-to-guides/understanding-printing/setup-printing-using-bluetooth-printer.md)
   * [Using Primary Option Set](how-to-guides/using-primary-option-set.md)
   * [How To Export Orders & Customer Data](how-to-guides/how-to-export-orders-and-customer-data.md)
   * [Make Customer Information Optional](how-to-guides/make-customer-information-optional.md)
