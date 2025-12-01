@@ -86,6 +86,7 @@
   * [How To Integrate PushPOS with CloudWaitress](how-to-guides/how-to-integrate-pushpos-with-cloudwaitress.md)
   * [Use "Logged in Only" Feature](how-to-guides/use-logged-in-only-feature.md)
   * [Set Up Facebook Pixel](how-to-guides/set-up-facebook-pixel.md)
+  * [How To Hide "Powered By"](how-to-guides/how-to-hide-powered-by.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
