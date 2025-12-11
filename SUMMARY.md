@@ -25,6 +25,7 @@
   * [Bump Screen Technology](how-to-guides/bump-screen-technology/README.md)
     * [Mastering the Bump Screen](how-to-guides/bump-screen-technology/mastering-the-bump-screen.md)
   * [Cloudwaitress and Walletly](how-to-guides/cloudwaitress-and-walletly.md)
+  * [Configure Custom Payment Methods](how-to-guides/configure-custom-payment-methods.md)
   * [Design Customization - Advanced](how-to-guides/design-customization-advanced.md)
   * [Email & Audio Alerts](how-to-guides/email-and-audio-alerts.md)
   * [Examples of Dates & Times and their corresponding formats](how-to-guides/examples-of-dates-and-times-and-their-corresponding-formats.md)
