@@ -37,3 +37,9 @@ description: >-
 7. **Maximum Order Value ($)**\
    Specify the maximum order value for which this payment method will be available.
 8. Click **Save** to apply the changes.
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+{% endhint %}
