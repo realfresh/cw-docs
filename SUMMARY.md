@@ -28,6 +28,7 @@
   * [Configure Custom Payment Methods](how-to-guides/configure-custom-payment-methods.md)
   * [Design Customization - Advanced](how-to-guides/design-customization-advanced.md)
   * [Email & Audio Alerts](how-to-guides/email-and-audio-alerts.md)
+  * [Enable Tips at Checkout](how-to-guides/enable-tips-at-checkout.md)
   * [Examples of Dates & Times and their corresponding formats](how-to-guides/examples-of-dates-and-times-and-their-corresponding-formats.md)
   * [Export/Import Menu Feature](how-to-guides/export-import-menu-feature.md)
   * [Hide Store Header Section (image)](how-to-guides/hide-store-header-section-image.md)
