@@ -2,10 +2,12 @@
 description: >-
   The Order Tipping feature gives your customers the option to add a tip when
   they order online. This helps your business encourage gratuities directly
-  through the checkout process. You can set default
+  through the checkout process.
 ---
 
 # Enable Tips at Checkout
+
+You can set default tip percentages, provide multiple tipping options and decide which tip option appears as the default. By enabling this feature, customers have a clear and convenient way to support your staff while placing an order.
 
 {% embed url="https://drive.google.com/file/d/10FFSf2GvBozbvu4oNzfz1_GbYDJtBnJy/view?usp=sharing" %}
 
