@@ -13,19 +13,19 @@ description: >-
 
 1. On the Admin Dashboard, click on the Settings Icon
 
-<figure><img src="../.gitbook/assets/unknown.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (15).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Select **Payments** tab > Add **Payment Method**
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Choose **Custom** from the Payment Method list > **Add Method**
 
-<figure><img src="../.gitbook/assets/unknown (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Once added you can configure the settings:
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. **Enable** the Custom Payment Method
 5. **Services:** Choose which services this payment method will be restricted to (e.g., Pickup, Delivery, Dine-In, Table Booking).

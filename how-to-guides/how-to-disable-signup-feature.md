@@ -17,7 +17,7 @@ description: >-
 4. Click **Save** to apply the changes.
 5. View your store to verify the changes. When the **Signup feature is disabled**, the “**Register**” form will no longer be available to customers. See example below:
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
