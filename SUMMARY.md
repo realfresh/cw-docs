@@ -37,6 +37,7 @@
   * [How to Create & Import a Menu Using a Spreadsheet](how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet.md)
   * [How to Create and Manage Your Menus](how-to-guides/how-to-create-and-manage-your-menus.md)
   * [How to Create a Store API Key](how-to-guides/how-to-create-a-store-api-key.md)
+  * [How to Disable Signup Feature](how-to-guides/how-to-disable-signup-feature.md)
   * [How to Enable Pre-Orders in CloudWaitress](how-to-guides/how-to-enable-pre-orders-in-cloudwaitress.md)
   * [How To Integrate Postmates with CloudWaitress](how-to-guides/how-to-integrate-postmates-with-cloudwaitress.md)
   * [How To Integrate Walletly with CloudWaitress](how-to-guides/how-to-integrate-walletly-with-cloudwaitress.md)
