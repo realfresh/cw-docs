@@ -6,15 +6,15 @@ With this feature, your menu is visible only to customers who are logged in. It�
 
 1. On your admin dashboard, go to **Settings** > **System**
 
-<figure><img src="../.gitbook/assets/unknown (16).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (16) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Select “**Misc,**” enable “**Logged in Only**,” and then click **Save**.
 
-<figure><img src="../.gitbook/assets/unknown (17).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (17) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. View your store to verify the changes you’ve made. Below is what your online ordering store should look like once the “Logged-In Only” feature is enabled.
 
-<figure><img src="../.gitbook/assets/unknown (18).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (18) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
