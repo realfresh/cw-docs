@@ -121,6 +121,7 @@
   * [How to Configure Phone Regex Settings in Cloudwaitress](how-to-guides/how-to-configure-phone-regex-settings-in-cloudwaitress.md)
   * [How to Configure Printer Settings (ESCPOS Text / ESCPOS Image) in Cloudwaitress](how-to-guides/how-to-configure-printer-settings-escpos-text-escpos-image-in-cloudwaitress.md)
   * [Printer Troubleshooting Procedure](how-to-guides/printer-troubleshooting-procedure.md)
+  * [Set Minimum Order by Distance: Configure Ranges & Zones](how-to-guides/set-minimum-order-by-distance-configure-ranges-and-zones.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
