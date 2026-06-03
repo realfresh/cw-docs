@@ -5,7 +5,7 @@ description: >-
   CloudWaitress delivery orders.
 ---
 
-# How to add Driver Tracking
+# How To Add Driver Tracking
 
 ## Features
 
@@ -37,5 +37,7 @@ Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise
 
 ![See drivers and deliveries in the Shipday 'Map' section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
-##
+
+
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
 

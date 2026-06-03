@@ -43,3 +43,7 @@ By integrating Bancontact into your CloudWaitress platform, you can offer your c
 | 7           | Confirm payment                                            | Customer/Bancontact |
 | 8           | Receive order confirmation                                 | Customer            |
 | 9           | Prepare and deliver order                                  | Restaurant/Cafe     |
+
+
+
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).

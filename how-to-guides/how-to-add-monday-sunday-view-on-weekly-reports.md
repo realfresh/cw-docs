@@ -20,3 +20,13 @@ How to change first day of the week on dashboard:
 
 3\.  Filter out the Reports button by “Week” to see the changes.
 
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+{% endhint %}
+
+
+
+\
+<br>

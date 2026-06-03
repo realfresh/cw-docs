@@ -32,3 +32,10 @@ Benefits of using our Stripe+ solution are as follows;
 {% content-ref url="using-stripe-integrated.md" %}
 [using-stripe-integrated.md](using-stripe-integrated.md)
 {% endcontent-ref %}
+
+\
+<br>
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+{% endhint %}

@@ -21,3 +21,6 @@ When setting up a “Receipt Printing” the system allows you to customize the 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-10-11 at 8.43.04 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-10-11 at 8.46.51 AM.png" alt=""><figcaption></figcaption></figure>
+
+\
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).

@@ -26,3 +26,7 @@ Quickstart video tutorial
 ## What's Next
 
 At this point, you can customise the system as you please and begin accepting orders. We recommend you continue reading the articles in this section. You will learn how to configure the system to your requirements and manage orders in-depth.
+
+\
+\
+For further assistance, feel free to [contact us](https://www.cloudwaitress.com/contact/).

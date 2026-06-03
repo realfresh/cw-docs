@@ -9,3 +9,6 @@ If the external account (debit card or bank account) in question has previously 
 
 **Note** that keeping payout details up to date helps to prevent any delay in receiving payouts. To avoid delays, we strongly encourage **Express** users to update their payout information in advance of any changes and to update their debit card details before the card expires.
 
+
+
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).

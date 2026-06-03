@@ -16,7 +16,7 @@ You can accept credit cards online using [Stripe](https://stripe.com/). It is cu
 
 When Stripe is enabled, customers can choose from the online payment option when checking out. If a customer selects "Credit Card", the credit card field will drop-down below.
 
-![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_16wk7ks.png)
+![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_16wk7ks.png)
 
 ## Connecting Your Stripe Account
 
@@ -28,13 +28,13 @@ When Stripe is enabled, customers can choose from the online payment option when
 6. Copy the "Publishable Key" and "Secret Key" from the Stripe dashboard into the restaurant dashboard
 7. Set your payment currency in the restaurant dashboard and save the settings
 
-![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_4cpfy8.png)
+![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
 
 ## Testing Payments
 
 If you would like to do a test payment, copy your test API keys from Stripe. You can do this by toggling the "Viewing test data" switch.
 
-![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bjx53a.png)
+![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bjx53a.png)
 
 Once this is done, you can use the credit card number "4242 4242 4242 4242" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
 
@@ -55,3 +55,11 @@ Stripe enables you to accept different currencies online depending on the countr
 ## Issuing Refunds
 
 Stripe refunds can be processed from your order management dashboard or the Stripe dashboard. In the order management dashboard, the refund payment option is available in the order details popup. Simply press the action select bar and choose "Refund Stripe Payment".
+
+
+
+
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+{% endhint %}

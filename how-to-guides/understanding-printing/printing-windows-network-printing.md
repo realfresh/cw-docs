@@ -75,3 +75,6 @@ description: How to guide to print with a network printer
 
 15\. Go to your store and place a test order.
 
+
+
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).

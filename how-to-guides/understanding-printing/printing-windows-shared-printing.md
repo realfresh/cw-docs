@@ -55,3 +55,8 @@ description: how to guide to connect a USB printer
 **Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
 
 #### 8. Then press 'Send Test Print' and then press 'Create Printer'.
+
+
+
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+

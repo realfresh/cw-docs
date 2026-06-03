@@ -37,7 +37,7 @@ If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/a
 5. Enter your business name for the app name, ignore the sandbox developer account field
 6. Press the "Create App" button to complete this step
 
-![PayPal REST apps](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_141scma.png)
+![PayPal REST apps](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_141scma.png)
 
 #### Copy Live Application Credentials
 
@@ -49,7 +49,7 @@ If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/a
 6. Enable PayPal payments and paste in your "Client ID" and "Secret" key from the PayPal dashboard
 7. Choose your payment currency and save the form
 
-![PayPal application credentials](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1g9uc8i.png)
+![PayPal application credentials](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1g9uc8i.png)
 
 ## PayPal's Fees
 
@@ -58,3 +58,10 @@ Please be aware that using PayPal, like other online credit card processors, you
 ## Refunds
 
 Currently, refunds must be manually processed from within your PayPal account.
+
+\
+<br>
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+{% endhint %}

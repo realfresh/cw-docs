@@ -32,3 +32,7 @@ description: >-
 ![](<../../.gitbook/assets/untitled-2 (3).png>)
 
 6\. Paste the API key into the relevant API field in PushPrinter.
+
+
+
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).

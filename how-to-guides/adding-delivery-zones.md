@@ -50,3 +50,9 @@ Here are the steps to create a delivery zones:<br>
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 10.02.49 AM.png" alt=""><figcaption></figcaption></figure>
 
 Take note that you can create multiple zones in one map. Utilize it to achieve the perfect delivery zones for you.
+
+<br>
+
+{% hint style="danger" %}
+Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+{% endhint %}

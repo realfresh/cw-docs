@@ -103,7 +103,7 @@ For more detailed information and step-by-step guides, visit the following pages
 
 **Q: What should I do if my internet connection is unstable?** A: Consider using a 5G mobile connection as a backup or exclusively if reliable.
 
-For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://www.cloudwaitress.com/contact/).
 
 Explore more at [CloudWaitress.com](https://www.cloudwaitress.com).
 
