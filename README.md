@@ -35,7 +35,7 @@ In-depth details about our platform's capabilities and configurations.
 * [Customizing Your Store](https://support.cloudwaitress.com/customize-store): Tips and tricks to personalize your online store for a better customer experience.
 * [Order Management](https://support.cloudwaitress.com/order-management): Efficiently handle and track orders to ensure customer satisfaction.
 
-For further assistance, feel free to [contact us](https://support.cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
 
 ***
 
